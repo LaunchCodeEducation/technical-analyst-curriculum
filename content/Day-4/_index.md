@@ -1,10 +1,10 @@
 ---
-title: Role Review (Optional)
+title: 4. Role Review (Optional)
 weight: 104
 ---
 
 ## Instructor Activities
-
+***
 Today is by appointment only. It can be in-person or virtual based on the needs of the class. 
 
 * Review Module 1 & 2 Activities and create an example template of what a good email and chat communication should look like for the learners review

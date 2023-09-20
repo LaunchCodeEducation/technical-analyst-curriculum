@@ -1,9 +1,10 @@
 ---
-title: Questionable Empty
+title: 3. Questionable Empty
 weight: 103
 ---
 
 ## Calculated Empathy & Calibrated Questions
+***
 Let's talk about calculated empathy. We saw an example in module one effective communications activity 1.  It is a way of understanding other people's feelings and thoughts when you're talking to them. Imagine you're playing a card game with a friend. You notice your friend is not really engaged in conversation or the game and you want to know what your friend is thinking and feeling about the game, or if something else is going on with them. 
 
 Exploring with calculated empathy is a bit like being a detective in a mystery movie. You try to figure out what's going on in their head and heart, in an attempt to  solve the emotional puzzle. It's not about just hearing their words, it's about digging deeper into their reality to understand what might be going on with them. Now, we can assume our friend:  

@@ -10,3 +10,7 @@
 [submodule "archetypes"]
 	path = archetypes
 	url = https://github.com/LaunchCode-Hugo-Submodules/archetypes
+[submodule "public"]
+	path = public
+	url = https://github.com/LaunchCode-Hugo-Submodules/static
+	

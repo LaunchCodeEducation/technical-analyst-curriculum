@@ -1,91 +1,44 @@
 ---
-title: Effective Communication (Day 3) 
-weight: 102
+title: Questionable Empty
+weight: 103
 ---
 
-## Handling Objections and Rejection
+## Calculated Empathy & Calibrated Questions
+Let's talk about calculated empathy. We saw an example in module one effective communications activity 1.  It is a way of understanding other people's feelings and thoughts when you're talking to them. Imagine you're playing a card game with a friend. You notice your friend is not really engaged in conversation or the game and you want to know what your friend is thinking and feeling about the game, or if something else is going on with them. 
 
-We all will have the unfortunate privilege of interacting with someone that is difficult to work with in our personal or professional lives.. We can check our actions and behaviors to ensure we are not making the same mistake as others may have with the same customer or person (managers, co-workers, spouse etc.). Acknowledge and address objections rather than ignoring or dismissing them. Grabbing the objections off the table when they are added allow us to gain better insight and understanding of the situation. 
+Exploring with calculated empathy is a bit like being a detective in a mystery movie. You try to figure out what's going on in their head and heart, in an attempt to  solve the emotional puzzle. It's not about just hearing their words, it's about digging deeper into their reality to understand what might be going on with them. Now, we can assume our friend:  
 
-A “No” in business rarely means that all the facts have been considered and all options have been exhausted. It’s usually our way of protecting ourselves from the unknown outcomes from the agreement. When we offer a solution to a speaker/customer, and they refuse or reject our offer, we can ask open ended questions to see if there is something we missed. For example, A customer calls in and in anger and only wants to talk to a manager/supervisor. We ask if there is anything you can do to help and they say No. What do you do? Avoid asking if there is anything you can do because there is, you can get a manager or supervisor to talk to the caller. Instead, we should ask if we can learn more about the issue before we escalate the call to help the caller avoid repeating him or herself once they’re transferred. While documenting the call, researching the caller's history and looking for notes we can ask questions about the previous call or notes on the account For example, I see you spoke with my colleague Asia yesterday about this same issue. How long has this been a problem for you? Give the speaker room to reason and respond to your inquiry and respond with empathy and explore alternative solutions to overcome objections. 
+1. Is getting frustrated with the game because they didn’t want to play 
+2. Is frustrated because we keep winning and they aren’t good at the game
+3. Or they want to be doing something else
 
-If someone rejects your solution, remember it’s not on you or what you are offering, they are rejecting the idea’s you’ve presented. Do not take it personal. Balance the rejection with open ended questions that carry the conversation forward. Repeat their problem back and wait to see if you’ve got it right and offer your solution. If your solution is rejected then ask a follow up question to temperature check the solution and situation. For example, it seems like I don’t have all the facts right. Given what you have told me, the next step(s) for me is to  _____________. What about this doesn’t work for you? Always remember that their anger and rejection isn’t validation for something being wrong with you.  
+We can make many assumptions about their feelings or thoughts but these are just assumptions. We have to ask open ended questions to help us temperature check the situation. We should start with an easy one, like asking, “…want to do something else?” Then we wait for the response and continue asking questions until we can get them to open up to what they are thinking or feeling. When dealing with a speaker/customer over the phone we must deploy a calculated empathy. Listening to the person's voice afflictions, which is the tone and pitch of a person's voice when they are talking. Do they sound angry, excited, frustrated or eager? Based on this analysis, you can determine the types of calculated empathy questions to ask to see if you can offer a solution to the issue(s) or problem they are experiencing.  This will offer insights into their thoughts and motivations when done correctly.
 
-## Avoid These 
+Once we understand the emotions and needs of the other person they may begin to trust us with the problem. That said, calculated empathy is about building trust. It can be deployed in many different situations with an unlimited amount of calculated questions. Think of it this way, if someone is talking, they want to be heard, understood or help finding a solution/advice. Otherwise, why would they talk about the problem? 
 
-* Don’t ask why questions they seem accusatory
-* Don’t say I know how you feel, because we have no idea
-* Don’t say No, use not yet instead
-* Don’t take it personally, because it’s not your fault 
-* Don’t say how can I help you don’t know if you can yet
+## Setting Expectations
 
-## Try These 
+This section is about effective communication (no surprise) by ensuring we let the customer/clients know what we are able to do for them. Imagine you want to buy a new car and you want to get a good deal for no more than twenty-thousands 20,000 dollars. You are expecting to spend no more than this amount. You are okay with spending less, but not more. Your expectations are anchored at this point. When we take a call from a client/customer calling in, they have an expectation. This expectation can be unrealistic but an expectation nonetheless. We must take and set the expectations by using all the tools you have learned so far in this training. 
 
-* Ask for a name and use their name where it makes sense
-* Ask what and how questions to learn how they can help you resolve the problem
-* Looks like or seems like or sounds like to capture emotions
-* Try to picture what they are saying and how the story is being told to help guide your how and what question to ask 
-* Wait for long pauses to jump into the conversation and ask question to help the speaker understand their thoughts and help satisfy your curiosity  
+1. Asking open ended questions
+2. Calculated Empathy 
+3. Active Listening
+4. Handling Objection
 
-## The Importance of Taking Notes 
+Here is how we might deploy what we have learned so far with a call from a customer or client we are working with within our organization. 
 
-**“ Productive Conversations, Conference Calls, and Meetings “**
+## **Case Study : Password Reset **
 
-Our fast-paced professional landscape requires effective communication is the  cornerstone of our success in business . Whether we are engaging in a conversation, participating in a conference call, or attending a meeting, talking notes is a critical element of guiding action items or referring to next steps for a project or plan. It also doubles as a strategic skill that enhances comprehension, retention, and collaboration. Note-taking transforms passive listening into active participation. Jotting down key points, ideas, and questions you have and helps to prevent our minds from wandering. Try not to copy word for word, we can always go back and clean up our notes after the meeting. It's also just a good record keeping habit to get into over time.
+We work for ABC corp in the call center when a customer calls in (assume they have an expectation set for how this should go) We ask for customer information to verify the account and caller. Once we have verified the caller, we ask what seems to be the issue (open ended question) and let the customer explain what’s going on (active listening for voice affliction). They tell us they have been transferred 4 times before reaching us and just need to reset their password. We respond by first addressing the concerns or frustrations we heard either expressed or picked up from the tone and pitch of their voice. In our response we want to normalize the feeling and make a statement for categorizing the feeling we think is being expressed (if it is not a positive response). A response could be “That sounds frustrating, let me try to quickly resolve this issue for or get you to the right department…if I have to put you on hold for a moment, it would be no longer than 2 minutes. Is that okay? (anchoring the expectation and handling the objection)”
 
-Effective teamwork hinges on clear communication and shared knowledge sharing. Post-meeting, these notes can be shared with team members who may not have been present, ensuring everyone remains aligned and informed. The act of note-sharing cultivates an environment of transparency and inclusivity, promoting a sense of unity toward common objectives. For example, if you know one of your colleagues can not make it to class next week. You can agree to share your notes with them ahead of the class scheduled date. 
+The Password Reset case study provides a simple example of how to handle forecasted rejection of being placed on hold, asking open ended questions, assumptions and anchoring or setting expectations with a potentially irate client/customer.  However, we are unable to determine how a client or customer call will go so we must do our do diligence to gather all the data we can collect as earlier as possible so that if the call needs to be escalated to a manager, supervisor or colleague we have all the information we need to move the caller forward. We could also anchor expectations in the beginning of the call by asking if all I am able to do for today is get you to the correct department would that be satisfactory? This is a collection of favorable wins and allows you to control the outcome of the call earlier rather than after the call goes off the rails. 
 
-## Checklist: Taking Notes
+## Favorable Wins When Setting/Anchoring Expectations
 
-1. What information do I need? Who needs to see these notes?
-2. Record only the most important ideas and concepts. Be sure to record all vital names, dates, and definitions.
-3. When in doubt about whether to take a note, consider the difficulty of finding the source again, would you be able to call them back? 
-4. Screenshot and highlight key areas to solve the problem.
-5. Give proper credit to any resource you used to find the answer in your ticket update record the 
-    1. Title
-    2. Published Date
-    3. URL
-6. Record notes in a way that you find efficient and useful for outlining the steps taken to solve the problem 
-7. Check your notes for accuracy against the original material before moving on to another call (if applicable) 
+Favorable wins is using and deploying all the tools previously mentioned (see case-study: Password Reset) to end a call with a customer/client.  The order and timing is dynamic to each situation and should be used to neutralize or de-escalated a situation. Creating favorable outcomes are directly associated with setting and anchoring the expectation earlier in the interaction. 
 
-## Planning or Running a Meeting 
+* For example, if all I am able to do is get you to a manager would that help you in any way today? 
+* Focus on collaborative problem-solving to reach mutually beneficial outcomes. Aim for solutions that satisfy the needs of both parties whenever possible.
+* Establish what can happen and avoid talking about the things that are not possible
 
-We may be called to run a meeting for your department or present a report of our findings to a larger team.  We should get familiar with Google Slides or Microsoft PowerPoint Slides to build your deck and more importantly outline a meeting agenda to send to the team ahead of your meeting. Here are some key elements to get your started. 
-
-1. Determine your purpose, what do you want you audience to know or learn 
-2. Consider your audience, what do they already know about your presentation 
-3. Gather the details, do you research to collect all the related information to your report 
-4. Create an agenda, create an agenda for the meeting
-5. Identify any collaboration that may be needed to create a holistic view of the report  
-6. Stay on the time target 
-
-Structure your presentation with an 
-
-1. Introduction: What is the presentation about?
-2. Body: How does the story unfold? 
-3. Closing: What do you want your audience to learn or do? 
-
-When building our presentation, we should try to use more images than bullets, points and words. Many of our co-workers and leadership team members want to make decisions with the best information available. We should make an attempt to ensure we have quality and not quantity in our presentations. Using charts and other visual-aids will help keep the presentation short and on topic. 
-
-**Protip:** Keep an eye on the clock. If you notice the meeting is about to run over time, take a pause and ask if there is interest in a follow-up meeting 
-
-## Checklist: Visuals Presentation
-
-1. Limit each visual to a single sentence or word that can be quickly read by your audience.
-2. Use a font size readable from the back of a large room.
-3. Limit the number of bulleted or numbered items in lists to five or six per visual, and use numbers if sequence is important and bullets if not.
-4. Keep lists in parallel structure and balanced in content.
-5. Make your visuals consistent in font style, size, and spacing.
-6. Consider the contrast between your text and the background to ensure the text and images are clear to those in the audience.
-7. Use only one or two illustrations per visual (or slide) to avoid clutter and confusion.
-8. Use graphs and charts to show data trends and timeframes.
-9. Avoid overloading your presentation with so many visuals that you distract or tax the audience’s concentration: One visual for every two minutes is a common guideline.
-10. Avoid using sound or visual effects in presentation software that distract from the content or may seem unprofessional.
-11. Do not read the text on your visual word for word. Your audience can read the visuals; they look to us to develop the key points.
-12. Match your delivery of the content to visuals. Do not put one visual on the screen and talk about the previous visual or, even worse, the next one.
-
-## Business Writing 
-
-We will look at the more technical side of writing in the second (2) week of the training. Business writing includes but is not limited to emails, chats servers (Teams, Slack, Discord etc.), social media posts and other documentation formats we read or consume while working on the job. While we are employed at a company our social media (Facebook, LinkedIn etc.) are considered a representation of the company. Unless otherwise stated in your post, if a reader sees your post and finds it offensive, it can be considered a representation of the company we are employed by at the time. When we post, we should be mindful of what we are posting before we post, especially if it is a controversial topic. If you are in doubt, you should consult the marketing or media department before posting. Our social profiles are public information. It’s very easy to find out where someone works since we usually post or update our LinkedIn profiles with promotions, job changes and announcements. Some organizations have a media policy that we may need to revisit and review before we post public facing articles or post. Be sure to familiarize yourself with any standing policies and review all of the onboarding documents signed upon gaining employment. 
-
-Additionally, any communication you have on company software can possibly be reviewed, kept and secured for legal purposes. We should be mindful to only use approved communications on company own systems and equipment to ensure data is kept private and secured. Our emails should follow the same outline provided in the Presentation Checklist section with an exception on the visuals aids and bullet points. Use bullets to call out important steps or action to be taken to the senders. Try to avoid writing novels in emails since in most cases only the bullet points will be scanned or reviewed. Plan a follow-up email if several days pass before you receive a reply.  
+Dealing with irate customers requires finesse, patience, and a deep understanding of effective communication. Transforming challenging situations into favorable wins is not only a testament to our professionalism, it is also a commitment to customer/client satisfaction. It also is an opportunity to strengthen brand loyalty and our personal brand.  Adopting a customer-centric mindset, actively listening, demonstrating empathy, and offering tailored solutions, we turn the tide of dissatisfaction into a springboard for positive change. Continuously improving and having a dedication to learning from each customer interaction, we can navigate the customers experience and create favorable solutions.  

@@ -1,13 +1,11 @@
 ---
-title: Effective Communication (Day 1)
+title: Active Listening
 weight: 101
 ---
 
-**“ _When we listen, we hear someone into existence_ ”** - Laurie Buchanan, PHD
-
 ## The Importance of Active Listening 
+**“ _When we listen, we hear someone into existence_ ”** - Laurie Buchanan, PHD
 ***
-
 Active listening is a communication skill where you give your undivided attention to the speaker and try to connect to the speaker during the conversation. This connection will help you stay engaged with the speaker and remember the conversation better. 
 
 For this course, we will learn how to use active listening to connect with customers.  We can use summarizing and labeling to show empathy and build rapport. We can also validate their experience through normalization of the situation, helping the speaker feel normal and normalizing the experience they are having during the interaction with us.

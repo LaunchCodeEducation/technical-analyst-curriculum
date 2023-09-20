@@ -1,9 +1,9 @@
 ---
-title: Effective Communication (Day 2) 
+title: Handling Rejection
 weight: 102
 ---
 
-## Handling Objections and Rejection
+## What Happens After No
 
 We all will have the unfortunate privilege of interacting with someone that is difficult to work with in our personal or professional lives.. We can check our actions and behaviors to ensure we are not making the same mistake as others may have with the same customer or person (managers, co-workers, spouse etc.). Acknowledge and address objections rather than ignoring or dismissing them. Grabbing the objections off the table when they are added allow us to gain better insight and understanding of the situation. 
 
@@ -28,7 +28,6 @@ If someone rejects your solution, remember it’s not on you or what you are off
 * Wait for long pauses to jump into the conversation and ask question to help the speaker understand their thoughts and help satisfy your curiosity  
 
 ## The Importance of Taking Notes 
-
 **“ Productive Conversations, Conference Calls, and Meetings “**
 
 Our fast-paced professional landscape requires effective communication is the  cornerstone of our success in business . Whether we are engaging in a conversation, participating in a conference call, or attending a meeting, talking notes is a critical element of guiding action items or referring to next steps for a project or plan. It also doubles as a strategic skill that enhances comprehension, retention, and collaboration. Note-taking transforms passive listening into active participation. Jotting down key points, ideas, and questions you have and helps to prevent our minds from wandering. Try not to copy word for word, we can always go back and clean up our notes after the meeting. It's also just a good record keeping habit to get into over time.

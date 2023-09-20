@@ -1,10 +1,10 @@
 ---
-title: Handling Rejection
+title: 2. Handling Rejection
 weight: 102
 ---
 
 ## What Happens After No
-
+***
 We all will have the unfortunate privilege of interacting with someone that is difficult to work with in our personal or professional lives.. We can check our actions and behaviors to ensure we are not making the same mistake as others may have with the same customer or person (managers, co-workers, spouse etc.). Acknowledge and address objections rather than ignoring or dismissing them. Grabbing the objections off the table when they are added allow us to gain better insight and understanding of the situation. 
 
 A “No” in business rarely means that all the facts have been considered and all options have been exhausted. It’s usually our way of protecting ourselves from the unknown outcomes from the agreement. When we offer a solution to a speaker/customer, and they refuse or reject our offer, we can ask open ended questions to see if there is something we missed. For example, A customer calls in and in anger and only wants to talk to a manager/supervisor. We ask if there is anything you can do to help and they say No. What do you do? Avoid asking if there is anything you can do because there is, you can get a manager or supervisor to talk to the caller. Instead, we should ask if we can learn more about the issue before we escalate the call to help the caller avoid repeating him or herself once they’re transferred. While documenting the call, researching the caller's history and looking for notes we can ask questions about the previous call or notes on the account For example, I see you spoke with my colleague Asia yesterday about this same issue. How long has this been a problem for you? Give the speaker room to reason and respond to your inquiry and respond with empathy and explore alternative solutions to overcome objections. 

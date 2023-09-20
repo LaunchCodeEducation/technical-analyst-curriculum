@@ -1,10 +1,10 @@
 ---
-title: Active Listening
+title: 1. Active Listening
 weight: 101
 ---
 
 ## The Importance of Active Listening 
-**“ _When we listen, we hear someone into existence_ ”** - Laurie Buchanan, PHD
+> “ _When we listen, we hear someone into existence_ ” - Laurie Buchanan, PHD
 ***
 Active listening is a communication skill where you give your undivided attention to the speaker and try to connect to the speaker during the conversation. This connection will help you stay engaged with the speaker and remember the conversation better. 
 

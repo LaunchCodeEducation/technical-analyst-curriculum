@@ -3,7 +3,8 @@ title: "Day 1 Exercise 1"
 weight: 5
 ---
 
-### In Class Activity 1: [Communication Skills: Empathetic Listening - Inside Out, 2015](https://www.youtube.com/watch?v=t685WM5R6aM) (2m)
+### In Class Activity 1
+[Communication Skills: Empathetic Listening - Inside Out, 2015](https://www.youtube.com/watch?v=t685WM5R6aM) (2m)
 
 ### Reflection Questions
 

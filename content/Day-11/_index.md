@@ -1,5 +1,5 @@
 ---
-title: 11. Systems Behind Interactions
+title: 11. Splunk Components 
 weight: 111
 ---
 

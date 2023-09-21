@@ -1,5 +1,5 @@
 ---
-title: 7. Common Troubleshooting Techniques
+title: 7. Troubleshooting
 weight: 107
 ---
 

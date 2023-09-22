@@ -77,7 +77,7 @@ Other network terms jargon you should be familiar with are listed below. This is
 
 **SMTP (Simple Mail Transfer Protocol)**, is used for sending and receiving emails. It's responsible for transferring emails from the sender's email client to the recipient's email server.
 
-**FTP (File Transfer Protocol) **, is used for transferring files between computers on a network. It allows users to upload and download files from remote servers.
+**FTP (File Transfer Protocol)**, is used for transferring files between computers on a network. It allows users to upload and download files from remote servers.
 
 **Firewalls**, a network security software that monitors incoming and outgoing network traffic based on security rules. They establish barriers between trusted networks and untrusted networks.
 

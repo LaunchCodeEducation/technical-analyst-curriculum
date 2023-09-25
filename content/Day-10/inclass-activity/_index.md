@@ -3,7 +3,7 @@ title: "Instructions"
 weight: 110
 ---
 
-## Activity : Instructor Splunk Install Walk-Through & Basic Search
+## Instructor Activity : Splunk Install Walk-Through & Basic Search
 Using the tutorial data provided by Splunk
 
 1. Splunk 9.x.x Install 

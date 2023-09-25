@@ -14,5 +14,5 @@ weight: 5
 2. Why was the character (Sadness) able to get Bing Bong to talk? 
    1. What was different about her approach? 
    2. Why was it successful? 
-   3. What do you think would have happened if Sadness was not there to empathize with the charter Bing Bong?
+   3. What do you think would have happened if Sadness was not there to empathize with the character Bing Bong?
 

@@ -65,7 +65,9 @@ When structure our presentation we should use the the same outline we would use 
 
 When building our presentation, we should try to use more images than bullets, points and words. Many of our co-workers and leadership team members want to make decisions with the best information available. We should make an attempt to ensure we have quality and not quantity in our presentations. Using charts and other visual-aids will help keep the presentation short and on topic. 
 
-**Protip:** Keep an eye on the clock. If you notice the meeting is about to run over time, take a pause and ask if there is interest in a follow-up meeting to cover the extended discussion that has developed during the initial meeting
+{{% notice green "Protip" "rocket" %}}
+ Keep an eye on the clock. If you notice the meeting is about to run over time, take a pause and ask if there is interest in a follow-up meeting to cover the extended discussion that has developed during the initial meeting
+{{% /notice %}}
 
 ## Checklist: Visuals Presentation
 

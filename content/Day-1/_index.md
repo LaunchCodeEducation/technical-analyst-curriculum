@@ -35,15 +35,18 @@ To understand the problem-solving process, we need to locate the root of the pro
 **Secondary Task - Research the problem solution set**
 We will often have access to written documentation from software developers and engineers to help us locate the root cause of a problem. These documents are likely searched so we should be able to identify and extract the contents given we provide good search context. Similar to Google search, if you want to find the best solution for a gift you may type a very specific search term into the search box. To better understand this let’s look at an example. 
 
-> Example 1 - _Halloween Sweaters_
-    In this example, what we are asking the search engine to do is find all the Halloween Sweaters on the internet. This can return a lot of data to filter through before we find the one we are looking to purchase. 
+{{% notice blue "Example 1 - Halloween Sweaters" "rocket" %}}
+In this example, what we are asking the search engine to do is find all the Halloween Sweaters on the internet. This can return a lot of data to filter through before we find the one we are looking to purchase. 
+{{% /notice %}}
 
-> Example 2 - _Funny Halloween Sweaters Unisex_
-    This example is similar to the previous but we have added that we are interested in only unisex sweaters and sweaters with the descriptor funny. This is still a long list of sweaters to review before our purchase
+{{% notice blue "Example 2 - Funny Halloween Sweaters Unisex" "rocket" %}}
+This example is similar to the previous but we have added that we are interested in only unisex sweaters and sweaters with the descriptor funny. This is still a long list of sweaters to review before our purchase
+{{% /notice %}}
 
-> Example 3 - _Funny Halloween Witch Sweaters_
-    Here, we are very specific about the types of sweaters we want to purchase and in theory, gives us a much smaller list than the two previous search terms. 
-    The previous examples demonstrate why it is important for us to properly identify the problem. Once we have the problem, we can search for a likely solution in the technical documentation, user guide or knowledge base. 
+{{% notice blue "Example 3 - Funny Halloween Witch Sweaters" "rocket" %}}
+Here, we are very specific about the types of sweaters we want to purchase and in theory, gives us a much smaller list than the two previous search terms. 
+The previous examples demonstrate why it is important for us to properly identify the problem. Once we have the problem, we can search for a likely solution in the technical documentation, user guide or knowledge base. 
+{{% /notice %}}
 
 **Third recall/recognize - Identifying patterns and trends in data and code**
 Our final step in our analysis is to identify the frequency of problems we are solving. Take note of how many times we get a call about the same problem and escalate the problem to the proper team to review and resolve. Often we have limited reach in our analysis so we have to escalate problems to other teams to continue our analysis where we hit the wall. Excellent verbal and written communication skills are essential for problem escalation. Clear communication is the key to building any relationship. How we document the problem/solution/installation steps in software engineering is called technical writing or technical documentation and it is meant to be very technical in nature. It should outline all the steps required to get a system installed, to fix a bug, or to escalate a problem. We will take a closer look at technical writing in Week 2 but for now, our focus is on the required steps for the team to pick up where we left off with our attempt to solve the problem.  

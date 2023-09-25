@@ -85,10 +85,11 @@ We want to avoid lots of text on the screen and use as little text as possible a
 
 There could be outside factors acting on our data. For example, if the sales data in the previous example was covering iPhone sales, we may notice that sales increased in December of a given calendar year. Does this mean many people got new iPhones for Christmas? Also, be mindful of what is not included, like cell phone providers. We don’t know which mobile phone providers had the most sucess in this calendar year. Are all the phone providers doing well during this holiday season or just one? Are all the providers lump in together? We must do our due diligence when reporting because our slides may be shared between teams, departments or publicly and we want to answer as many questions as we can in our presentation. Remember, always save 10-15 minutes at the end of a presentation for questions and answers (Q&A). There could be a room full of people waiting to the end of the presentation to ask questions but they wanted to get the full picture before jumping into a conversation. 
 
-**Pro tip:** Turn failure into stepping stones. 
+{{% notice green "Protip" "rocket" %}}
+Turn failure into stepping stones. Don’t be afraid to show what you learned or where the project failed. This can help others engage in the conversation or get involved in the conversation or project. 
+{{% /notice  %}}
 
-Don’t be afraid to show what you learned or where the project failed. This can help others engage in the conversation or get involved in the conversation or project. 
-
+{{% notice green "Protip" "rocket" %}}
 **Pro tip:** Try to send the presentation to the group ahead of the meeting at least 24 hours at most 72 hours in advance to allow people time to review the deck before the meeting.  
-
+{{% /notice %}}
 

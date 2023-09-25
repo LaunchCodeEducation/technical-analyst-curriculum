@@ -27,7 +27,9 @@ From the image above, it is really difficult to determine if there is a problem.
 
 **What is Structured Data**? Structured data is the opposite of unstructured data and represents a clearer picture for us to read, work with and analyze data. It can be presented in rows and columns (tables or tabular data) and normally comes from a web server or event logs. Taking a look at the screenshot, you’ll notice a field **status : 200. **This is a common field that is an indicator that a webpage was returned to the user successfully. Other status codes like 400 series can be searched and presented to show us which pages did not return successfully. We can easily read a lot of the metadata about the request and response of the page using Splunk. 
 
+{{% notice green "Protip" "rocket" %}}
 **Note**: Http response codes tell us  if a particular request failed or was successful. This topic is outside of the scope of this book but should be reviewed at some point in your career journey.   
+{{% /notice %}}
 
 ![alt_text](images/image3.png "image_tooltip")
 

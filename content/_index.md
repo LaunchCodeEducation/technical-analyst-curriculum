@@ -10,7 +10,12 @@ weight: 100
 Customer Service professionals often lack the software and soft skills required to manage customer relationships. This often results in bad reviews, poor brand representation, and loss of business. Desired training for these professionals will solve several pain points for our company partners. This course is designed to close the gap between the technical skills and communication skills required to obtain employment in Customer Service and Technical Writing roles.
 
 ## Course Duration 4 Weeks
-Course Objectives Effective Communication **Module 1 and Module 2** Course Objectives - Technical Analysis **Module 3 and Module 4** (On-site & Virtual) Gradable Assignments and Participation
+|Course Objective       | Content                    |
+|---                    |---                         |
+| Module 1 - 1 Week     | Effective Communication    |
+| Module 2 - 2 Weeks    | Technical Analysis         |
+| Module 3 - 3 Weeks    | Capstone                   |
+
 
 ## Grading Scale 
 | Assignment         | Points |

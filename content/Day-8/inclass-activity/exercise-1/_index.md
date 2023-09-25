@@ -15,5 +15,8 @@ HatTrick Logic is a gaming company that needs to address its user base (age 18-2
 
 ### Regional Team Notification Strategy 
 What must the notification system be able to do to allow the company to send updates that are specific to your Customer Personas? (100-150 words or more)
+
+### Reflection Questions
+1. What assumptions did you make about the application, locations or users? 
  
 

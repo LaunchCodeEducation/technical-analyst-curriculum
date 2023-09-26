@@ -17,6 +17,4 @@ Dynatrace offers a rich set of features we can deploy to align our observations 
 * Application Performance Monitoring (APM)
 * Application Security (AppSec)
 
-![Dynatrace Offering](./images/dynatrace-offerings.png "Dynatrace full course offerings")
-
-
+![Dynatrace Offering](/images/dynatrace_offerings.png "Dynatrace full course offerings")

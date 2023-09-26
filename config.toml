@@ -6,3 +6,4 @@ theme = "hugo-theme-relearn"
 [params]
 themeVariant = ['lc-light', 'lc-dark-blue', 'lc-dark-blue-two']
 enableInlineShortcodes = true
+canonifyURLs = true

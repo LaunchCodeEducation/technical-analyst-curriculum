@@ -15,13 +15,13 @@ There are three (3) main components of Splunk System Architecture Forwarders, In
 
 **Search** **heads**, where Technical Analysts spend most of our time;**  **manage searches. They handle search requests from users and distribute the requests across indexers, which search their local data. They can be independent or in a search cluster or pool.  They help us to consolidate the results from all of the indexers and serve the results to the users. The search head provides the user with dashboards, reports and alerts that can be triggered given threshold.  They usually sit on dedicated Servers as independent search heads, or they can be in an indexer cluster, or search head pool. See the following diagram that shows how the Search Head represents a small enterprise with less than 100 users. 
 
-![alt_text](images/image1.png "image_tooltip")
+![Splunk Search Head Architecture](./images/splunk-sh.png "Splunk Search Head Architecture View")
  
 ### Understanding the underlying systems Splunk is monitoring
 
 **What is Unstructured Data?** This is data that is not in rows or columns. It is hard to read and manipulate the data and even harder to make sense of what might be in the dataset.  The following image shows an example of unstructured data from a Weblogic server. 
 
-![alt_text](images/image2.png "image_tooltip")
+![Splunk Unstructured Data](./images/unstructured-data.png "How Unstructured Data Looks Without Using Splunk")
 
 From the image above, it is really difficult to determine if there is a problem. We would need to look closely at all the output to determine a reported problem. Now, imagine we have one-hundred (100) servers and that we manage all with their own unique problem/error. This becomes a problem no one’s what to deal with on a daily basis. This is one of the problems Splunk solves by bringing structure to unstructured data. 
 
@@ -31,7 +31,7 @@ From the image above, it is really difficult to determine if there is a problem.
 **Note**: Http response codes tell us  if a particular request failed or was successful. This topic is outside of the scope of this book but should be reviewed at some point in your career journey.   
 {{% /notice %}}
 
-![alt_text](images/image3.png "image_tooltip")
+![Splunk Structured Data](./images/structured-data.png "How Structured Data Looks Using Splunk")
 
 ### Splunk Documentation & Community 
 

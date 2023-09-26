@@ -15,7 +15,7 @@ There are three (3) main components of Splunk System Architecture Forwarders, In
 
 **Search** **heads**, where Technical Analysts spend most of our time;**  **manage searches. They handle search requests from users and distribute the requests across indexers, which search their local data. They can be independent or in a search cluster or pool.  They help us to consolidate the results from all of the indexers and serve the results to the users. The search head provides the user with dashboards, reports and alerts that can be triggered given threshold.  They usually sit on dedicated Servers as independent search heads, or they can be in an indexer cluster, or search head pool. See the following diagram that shows how the Search Head represents a small enterprise with less than 100 users. 
 
-![Splunk Search Head Architecture](./images/splunk-sh.png "Splunk Search Head Architecture View")
+![Splunk Search Head](images/splunk-sh.png "Splunk Search Head Architecture View")
  
 ### Understanding the underlying systems Splunk is monitoring
 

@@ -1,6 +1,6 @@
 ---
 title: 12. Analytics and Automation
-weight: 109
+weight: 112
 ---
 
 ## Intro to Dynatrace
@@ -17,6 +17,6 @@ Dynatrace offers a rich set of features we can deploy to align our observations 
 * Application Performance Monitoring (APM)
 * Application Security (AppSec)
 
-![alt_text](images/image4.png "image_tooltip")
+![Dynatrace Offering](./images/dynatrace-offering.png "Dynatrace full course offerings")
 
 

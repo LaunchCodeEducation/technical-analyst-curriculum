@@ -4,6 +4,7 @@ weight: 5
 ---
 
 ### In Class Activity
+This activity demonstrates that there are multiple supporting documents that will explain and outline steps to for the same task differently. Learners should take note of the similarities and differences in explainations for the same task and decided on a perference.
 
 ## Assignment : Create a Dashboard & Report
 

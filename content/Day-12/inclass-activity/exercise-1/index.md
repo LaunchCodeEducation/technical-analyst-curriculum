@@ -12,7 +12,11 @@ weight: 5
 
 ## Assignment : Creative Freedom 
 
-Using what you have learned in this training to create an explanation of what oneAgent is Agentless RUM; and how it is used. Be sure to include all the details and call out any assumptions you make along the way. Use at least 1 (but as many as you like) visual aid to help your audience understand its purpose. 
+Using what you have learned in this training to create an explanation of 
+1. What is oneAgent 
+2. What is Agentless RUM; and how it is used? 
+   
+Be sure to include all the details and call out any assumptions you make along the way. Use at least 1 (but as many as you like) visual aid to help your audience understand its purpose. 
 
 Explore [Dynatrace Platform modules](https://www.dynatrace.com/platform/)
 

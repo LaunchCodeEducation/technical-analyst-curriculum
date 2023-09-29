@@ -17,13 +17,13 @@ There are three (3) main components of Splunk System Architecture 1.) Forwarders
 
 **Search Heads**, is where Technical Analysts will likely spend most of our time. They handle search requests from users and distribute the requests across indexers, which search their local data. They can be independent or in a search cluster or pool. They help us to consolidate the results from all of the indexers and serve the results to the users. The search head provides the user with dashboards, reports and alerts that can be triggered on defined threshold. They usually sit on dedicated Servers as independent search heads, or they can be in an indexer cluster, or search head pool. See the following diagram that shows how the Search Head represents a small enterprise with less than 100 users. 
 
-![Splunk Search Head](/images/splunk-sh.png "Splunk Search Head Architecture with less than 100 users")
+![Splunk Search Head](./images/splunk-sh.png "Splunk Search Head Architecture with less than 100 users")
  
 ### Understanding the underlying systems Splunk is monitoring
 
 **What is Unstructured Data?** This is data that is not in rows or columns. It is hard to read and manipulate the data and even harder to make sense of what might be in the dataset. These are normally log files or event logs on a system or web server. The following image shows an example of unstructured data from a WebLogic server. When an error occurs, developers will login to the server search through log files to find the error that was reported. These server logs and be large and difficult to read and have many other errors that we are not looking for but will need to review to be sure that it is in fact, not the error we are searching for during our trace. Large organization have hundreds or thousands of servers determine by the company and business type. Without Splunk, developers could spend days or weeks searching files for errors. There are many tools we can use to help with debugging and searching log files and traceability. Splunk solves this search problem by structuring our data in a readable format. 
 
-![Splunk Unstructured Data](/images/unstructured-data.png "How Unstructured Data Looks Without Using Splunk")
+![Splunk Unstructured Data](./images/unstructured-data.png "How Unstructured Data Looks Without Using Splunk")
 
 From the image above is really difficult to determine if there is a problem just viewing the logs. We would need to look closely at all the output to determine a reported problem or copy the output to a different editor. Alternately, we could copy the data to our local machine however, this would be time consuming because these files are large (i.e., 20-50GB) and will need to travel over the organizations network from the company server to your local machine. Now, imagine that we have one-hundred (100) servers and that we manage and all with their own unique problem/error codes. This becomes a major problem that no one wants to deal with on a daily basis. This is one of the problems Splunk solves by bringing structure to unstructured data. 
 
@@ -33,7 +33,7 @@ From the image above is really difficult to determine if there is a problem just
 **Note**: HTTP/HTTPS response codes tell us if a particular request failed or was successful. This topic is outside of the scope of this book but should be reviewed at some point in your technical journey.   
 {{% /notice %}}
 
-![Splunk Structured Data](/images/structured-data.png "How Structured Data Looks Using Splunk")
+![Splunk Structured Data](./images/structured-data.png "How Structured Data Looks Using Splunk")
 
 ### Splunk Documentation & Community 
 

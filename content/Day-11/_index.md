@@ -35,7 +35,7 @@ From the image above is really difficult to determine if there is a problem just
 
 ![Splunk Structured Data](./images/structured-data.png "How Structured Data Looks Using Splunk")
 
-### Splunk Documentation & Community 
+### Splunk Documentation
 
 **Splunk Documentation** has two main platforms under the Splunk umbrella; Splunk Enterprise and Splunk Cloud. Based on the product we have installed the documentation will be different. **Splunk Cloud** provides insights for data at the petabyte-scale and data analytics across a hybrid cloud solution. **Splunk Enterprise** allows us to search, analyze and visualize data for actionable insights from all of your data within the enterprise. 
 

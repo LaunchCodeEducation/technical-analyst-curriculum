@@ -18,15 +18,13 @@ Customer Service professionals often lack the software and soft skills required 
 
 
 ## Grading Scale 
-| Assignment         | Points |
-|:----------:        |:------:|
-| Quizzes            |  0%    |
-| Case Study         |  0%    |
-| Final Exam         |  0%    |
-| Attendance         |  0%    |
-| Self-Assessment    |  0%    |
-| Pulse Check Survey |  0%    |
-| Total	             |  100%  |
+| Assignment            | Points |
+|:---------------------:|:------:|
+| In Class Assignments  |  25%   |
+| Assignments           |  25%   |
+| Final Exam            |  25%   |
+| Attendance            |  25%   |
+| Total	                |  100%  |
 
 ## **(On-site) Gradable Assignments and Participation**
 | Assignment            | Points |

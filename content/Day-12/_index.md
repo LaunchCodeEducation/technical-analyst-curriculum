@@ -17,7 +17,7 @@ Dynatrace offers a rich feature set that we can deploy to align our observations
 * Application Performance Monitoring (APM)
 * **Application Security (AppSec)**
 
-![Dynatrace Offering](/images/dynatrace_offerings.png "Dynatrace full course offerings")
+![Dynatrace Offering](./images/dynatrace_offerings.png "Dynatrace full course offerings")
 
 ## Dynatrace Documentation 
 [Dynatrace Support](https://www.dynatrace.com/support/help) is a general area of interest worth exploring to discover how the platform runs. It outlines how to extend, utilize the platform and Application Programming Interface (API), deployments and solutions. There is a large amount of detail and resources to review but we should focus on the features used by our employers. Once we are on a team, we will learn which features are owned by our team and we can concentrate our efforts and focus in the applicable areas. Keep in mind that there may be customize configurations of any of the tools that you use inside a corporate firewall. We strongly recommend that you start with the internal documents on the tool and build out from the customed base configuration to learn more.  

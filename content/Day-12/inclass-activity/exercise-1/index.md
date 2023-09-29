@@ -22,4 +22,4 @@ Explore [Dynatrace Platform modules](https://www.dynatrace.com/platform/)
 
 Explorer [Dynatrace Documentation](https://www.dynatrace.com/support/help/shortlink/welcome-page)
 
-![Dynatrace Docs](./images/dynatrace_docs.png)
+![Dynatrace Docs](../../../static/images/dynatrace-docs.png "Dynatrace Documation view")

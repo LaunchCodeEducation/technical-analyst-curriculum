@@ -7,7 +7,7 @@ weight: 104
 ***
 Today is by appointment only. It can be in-person or virtual based on the needs of the class. 
 
-* Review Module 1 & 2 Activities and create an example template of what a good email and chat communication should look like for the learners review
+* [Review Module 1](../Day-1/inclass-activity/_index.md)  Activities and create an example template of what a good email and chat communication should look like for the learners review
 * Have learners watch this view on [Professional communication](https://www.youtube.com/watch?v=urStEJ6uF84) skills (verbal and written)
 * Talk about the importance of professional networking and relationship building
 * Cross-cultural communication considerations

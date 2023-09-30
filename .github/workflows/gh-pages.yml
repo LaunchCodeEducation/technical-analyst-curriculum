@@ -39,6 +39,7 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Install Dart Sass
         run: sudo snap install dart-sass
+
       - name: Checkout
         uses: actions/checkout@v3
         with:
@@ -58,7 +59,7 @@ jobs:
             --gc \
             --cleanDestinationDir \
             --minify \
-            --baseURL "https://education.launchcode.org/technical-analyst-curriculum//"
+            --baseURL "https://education.launchcode.org/technical-analyst-curriculum/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:

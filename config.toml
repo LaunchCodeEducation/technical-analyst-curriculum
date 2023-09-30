@@ -1,6 +1,6 @@
 baseURL = 'https://education.launchcode.org/technical-analyst-curriculum/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Technical Analysis Course'
 theme = "hugo-theme-relearn"
 canonifyURLs = true
 

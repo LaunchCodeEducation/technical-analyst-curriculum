@@ -5,7 +5,7 @@ weight: 5
 
 ## In Class Instructor Activity : Organized Chaos  
 
-# Instructors Chaos List: Chaos Selection
+### Instructors Chaos List: Chaos Selection
 In this activity, you and the TA's are part of the Security Analyst team. One of you will pull an item from the Chaos List and allow one member from the team to come up in front of the class and read the problem and responsible teams. One team at a time is selected to read aloud and to reveal the disruption. Each team is responsible for implmenting the new business strategy for the problem. Allow the team 10 minutes to address the disruption as creatively and effectively as possible. Each situation includes the story points required to complete the task. These points are used to reduce employee burnout. Each team has a maxium of 25 Story points. Any points above this has a negative impact on performace and quality. For task greater than 10 points you can assign mulitple members to work on the task using a collaboration tool like Google Docs or Microsoft Word. You can introduce items for both list at the same time or at different times it's your class. Have fun!  
 
 # Material: 
@@ -54,7 +54,7 @@ Every 5 minutes, the instructor should pull an item form the list Development, O
 5. Does this prodcut have an MVP? 
 6. Is there a QA Plan? 
 
-# Instructor Notes:
+## Instructor Notes:
 Once the activity ends discuss that in a real world situations the teams would have months to apply chanages and have legal and compliance teams that will having conversations at higher levels of the organization before they become concerns for the enterprise. Also, highlight that some changes are faster than others and will have a more immedidate impact like what was introduced in this simulated environment. If the development team builds a Web application, ask them why? There should have been a red flag when the QR code and permissions for camera access. 
 
 ## Customer Team 
@@ -119,7 +119,7 @@ Applicaiton Requirements
     - Ensure compliance with relevant data protection and privacy regulations.
 
 
-# Approval Team 
+## Approval Team 
 The approval team is alwasy busy and it take 2 minutes to approve everything in this simulated environment. They also have a 5 item limit before they can take new approvals. All approvals after 5 have hit their queue and be placed on hold. If they are working on a high priority item, no new request can be taken.  If a team does not have all the required items for the approval they are send back to the responsible team to collect the item required. 
 
 **Only commuincates with the Business Team** 
@@ -132,7 +132,7 @@ New business account
 4. Expand our existing customber base?  
 5. Create product awareness or is it a new product? 
 
-# Operations Team (required)
+## Operations Team (required)
 Responsibilites
 - Ensure all Approvals have been met before deployment to production environments 
 - Application security 

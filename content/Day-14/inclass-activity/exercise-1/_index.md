@@ -146,7 +146,7 @@ Responsibilites
 4. Is there a business continunity (BC) or desaster recovery plan (DR)? 
 5. Does the application have redunancy? fault tolerance 
 
-## Business Team & Developer Team Activity: 
+## Business Team 
 Business Team 
 Primary responsibilities is meeting with the Customer Team and gathering requirements for the development team. 
 Responsibilites 

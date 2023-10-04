@@ -3,13 +3,12 @@ title: "Day 14 Exercise 1"
 weight: 5
 ---
 
-## In Class Instructor Activity : Organized Chaos  
-
 ### Instructors Chaos List: Chaos Selection
 In this activity, you and the TA's are part of the Security Analyst team. One of you will pull an item from the Chaos List and allow one member from the team to come up in front of the class and read the problem and responsible teams. One team at a time is selected to read aloud and to reveal the disruption. Each team is responsible for implementing the new business strategy for the problem. Allow the team 10 minutes to address the disruption as creatively and effectively as possible. Each situation includes the story points required to complete the task. These points are used to reduce employee burnout. Each team has a maximum of 25 Story points. Any points above this have a negative impact on performance and quality. For task greater than 10 points you can assign multiple members to work on the task using a collaboration tool like Google Docs or Microsoft Word. You can introduce items for both list at the same time or at different times it's your class. Have fun!  
 
-# Material: 
-Index Cards (Optional) - 
+## Material: 
+**Index Cards**
+Give each group 10-15 index cards. When a chaos situation is introduced, use the index card to capture the change
 
 **Chaos Business Rules of engagement** 
 The Chaos Business Rules can only be introduced by the instructor and should be selected at random. These rules do not need to come from this list and can be created by ad hoc by the instructor. The time associated with Low priority task is also selected at random by the instructor. 
@@ -165,5 +164,12 @@ Once these 3 documents are created and approved by the Project Manager they will
 ## Development Team  
 This team consist of 1 Project Manager, 1 or more web developer(s), 1 or more mobile app developer(s). Developers have a 10-story point limit. Once this limit is maxed the projects will incur a wait time of 15m before they can be started or introduced to the development team. Project marked with high critical levels you must have developers stop what they are doing and begin working on them immediately. 
 
+## Reflection group Questions 
+1. What went well? 
+   1. What would you do differently? 
+2. How did you feel? 
+3. How was the pace? 
+4. How would effective communcations help? 
+ 
 
 

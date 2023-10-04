@@ -31,21 +31,21 @@ Every 5 minutes, the instructor should pull an item form the list Development, O
 6. Applications must be fault tolerant? (10pts) - Impacts Development and Operations 
 7. Application have to be cloud native? (8pts) - Impacts Development and Operations 
 
-# Development Team (Chaos List)
+## Development Team (Chaos List)
 1. Production Webserver not responding (7pts) 
 2. Database slow response rate (5pts) 
 3. Page-load slow performance (5pts)
 4. Security Vulnerabilities in software (20pts) 
 5. PII data lead (10pts)
 
-# Operations Team (Chaos List)
+## Operations Team (Chaos List)
 1. Is there a test plan? 
 2. How many severs are needed? 
 3. Is there a capacity plan? 
 4. Is there a business continuity (BC) or disaster recovery plan (DR)? 
 5. Does the application have redundancy or fault tolerance 
 
-# Approval Team (Chaos List)
+## Approval Team (Chaos List)
 1. Is this new business account or existing account - All Teams
 2. What is the Market size - Business Team 
 3. Does the product have a customer persona - Business Team 

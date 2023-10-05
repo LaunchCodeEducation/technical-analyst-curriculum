@@ -49,3 +49,6 @@ Create visual representation of the logical architecture and all of the componen
 - What is a firewall and what purpose does it have in an organization? 
   - How is access filtered by firewalls  
 
+### Capstone By Example 
+An example finished project may look like the following illustration. 
+![Azure CI/CD Pipeline](<../imgs/CI_CD_Github_AzurePipeline.png> "Sample Illustration of Microsoft Azure CI/CD Pipeline")

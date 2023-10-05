@@ -1,8 +1,8 @@
-baseURL = 'https://education.launchcode.org/technical-analyst-curriculum/'
+baseURL = 'https://technical-analyst-curriculum/.netlify.app/'
 languageCode = 'en-us'
 title = 'Technical Analysis Course'
 theme = "hugo-theme-relearn"
-
+canonifyURLs = true
 
 [params]
 themeVariant = ['lc-light', 'lc-dark-blue', 'lc-dark-blue-two']

@@ -1,6 +1,6 @@
 ---
 title: "Instructions"
-weight: 112
+weight: 115
 ---
 
 ## Introduction to the capstone project
@@ -9,4 +9,4 @@ This capstone is a summative assessment that should provide an opportunity for l
 
 ### Capstone Sample Project 
 An example finished project may look like the following illustration. 
-![Azure CI/CD Pipeline](<../imgs/CI_CD_Github_AzurePipeline.png> "Sample Illustration of Microsoft Azure CI/CD Pipeline")
+![Azure CI/CD Pipeline](../../imgs/CI_CD_Github_AzurePipeline.png "Sample Illustration of Microsoft Azure CI/CD Pipeline")

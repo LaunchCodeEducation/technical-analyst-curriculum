@@ -7,7 +7,9 @@ weight: 107
 ***
 Many large and medium sized organizations that have been around for several years already have a large number of contributions from many different contractors and engineers. These existing documents, software and comments are part of the organization's knowledge management system or knowledge base. We can search these knowledge base systems to find answers to questions that we have or to troubleshoot an issue. Poor documentation leads to poor support and negatively impacts technical support. When we are new to our teams, we are not expected to know everything but we are expected to learn where and how to find the information we need. We should ask often for links to documentation that will provide more in depth learning of a given topic or subject. Once we have a fresh understanding and new perspective of the software product, we can ask questions using the referenced documentation links. If the documentation only lives in a single developer’s head, we should learn how it is done and document it and share it with the developer/engineer to ensure you've captured the steps properly. Then share it with the larger team.
 
-**Pro tip:** Take note of the last updated date when reading documentation. We want to look for versions, last edited, last changed to ensure the documentation is still relevant. This tells us if the document is still changing but more importantly, if there is active participation with keeping the documentation updated.  
+{{% notice green "Protip" "rocket" %}}
+Take note of the last updated date when reading documentation. We want to look for versions, last edited, last changed to ensure the documentation is still relevant. This tells us if the document is still changing but more importantly, if there is active participation with keeping the documentation updated.  
+{{% /notice %}}
 
 ## What Are Standards and Policies
 
@@ -25,9 +27,10 @@ Networking is about connectivity from machine to machine in most instances. This
 
 This document describes the behaviors and interactions of the applications we use in business. Physical and logical diagrams are used to help design the applications. The physical and logical diagrams are also used as reference points when troubleshooting common problems with the network. These diagrams are a great starting point for us to get familiar with the applications we support. 
 
-**Pro Tip:** Always ask for a logical or physical application diagram when working a technical support role.   
-
+{{% notice green "Protip" "rocket" %}}
+Always ask for a logical or physical application diagram when working a technical support role.   
 The Open Systems Interconnection (OSI) Model is a conceptual framework that _standardizes_ the functions of networking or telecommunications into seven distinct layers.
+{{% /notice %}}
 
 1. Physical ( Layer 1) 
 2. Data Link ( Layer 2)

@@ -1,5 +1,5 @@
 ---
-title: 4. Salesforce Service Cloud
+title: 4. Getting Started With Service Cloud
 weight: 104
 ---
 
@@ -26,7 +26,7 @@ The Salesforce Product Overview
 The next 2 days you will be working with Salesforce Service Cloud Trailhead. Salesforce Service Cloud is a cloud-based service that provides customers and businesses with the tools they need to manage their customer inquiries. 
 
 ### Step up your account 
-1. Navigate to [Salesforce.com][https://salesforce.com]
+1. Navigate to [Salesforce.com](https://salesforce.com)
 2. Click on the login icon
 3. Navigate down the list to the Trailblazer Account link and click the link 
 4. Sign-in with your preferred account provider or 

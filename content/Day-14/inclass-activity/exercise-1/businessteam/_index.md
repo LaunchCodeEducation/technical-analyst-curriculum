@@ -7,7 +7,7 @@ weight: 5
 
 Primary responsibilities are meeting with the Customer Team and gathering requirements for the Development team. 
 Responsibilities 
-- Communicates to the Technical team what they are doing and when it is done.
+- Communicate to the Technical team what they are doing and when it is done.
 - Connect the Developers with the Business Analysis and customer needs 
 
 **Only communicates with the Customer Team & Project Manager**

@@ -34,7 +34,7 @@ Using [Draw.io](https://www.draw.io) or similar tool to design the following log
 Create visual representation of the logical architecture and all of the components. We are not expecting extensive knowledge on Amason that required VPC with subnets, route tables, internet gateway and NAT Gateway but a complete understanding of a web applications dataflow and design. Create a document that can answer the following questions.  
 
 ## Platform Profile Questions
-Create a document that answers the follwing questions
+Create a document that answers the following questions
 - Who is your target audience for the platform? 
 - Which persona's do you think where used to create the technical documentation? 
 - What are some of the key features or capabilities of this solution offered to these audiences?

@@ -19,4 +19,4 @@ The Business Analyst will meet with the customer to discuss a web or mobile appl
 3. System architecture and 
 4. Dataflow diagram 
 
-Once these 3 documents are created and approved by the Project Manager they will be presented to the customer for review and approval. Once they have been approved by the customer, they documents will be sent to the Approval Team for review and approval/rejection to ensure the work aligns with the business needs. 
+Once these 3 documents are created and approved by the Project Manager they will be presented to the customer for review and approval. Once they have been approved by the customer, the documents will be sent to the Approval Team for review and approval/rejection to ensure the work aligns with the business needs. 

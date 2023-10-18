@@ -8,8 +8,7 @@ The approval team is always busy and it take 2 minutes to approve everything in 
 
 **Only communicates with the Business Team** 
 
-Checklist 
-New business account 
+New business account Checklist 
 1. Meet our current organizational goals 
 2. Create new revenue?  
 3. Create new customers?

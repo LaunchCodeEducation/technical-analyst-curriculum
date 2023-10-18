@@ -25,7 +25,6 @@ The Salesforce Product Overview
 
 The next 2 days you will be working with Salesforce Service Cloud Trailhead.Salesforce Service Cloud is a cloud-based service that provides customers and businesses with the tools they need to manage their customer inquiries. 
 
-// Todo Steps for creating an account 
 ### Step up your account 
 1. Navigate to [Salesforce.com][https://salesforce.com]
 2. Click on the login icon
@@ -88,5 +87,3 @@ Module 16
 
 Module 17
 [Service Metrics](https://trailhead.salesforce.com/content/learn/modules/service_metrics?trail_id=service_cloud_move) (~35m)
-
-

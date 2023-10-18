@@ -5,8 +5,9 @@ weight: 5
 
 ## Team Responsibilities  
 
-Primary responsibilities is meeting with the Customer Team and gathering requirements for the development team. 
-Responsibilities 
+Primary responsibilities will be, meeting with the Customer Team and gathering requirements for the development team. 
+
+***Responsibilities*** 
 - Communicates to the Technical team what they are doing and when it is done.
 - Connect the Developers with the Business Analysis and customer needs 
 

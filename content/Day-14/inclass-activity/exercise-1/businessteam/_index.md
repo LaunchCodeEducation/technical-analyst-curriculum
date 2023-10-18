@@ -12,7 +12,7 @@ Responsibilities
 
 **Only communicates with the Customer Team & Project Manager**
     
-The business analysis will meet with the customer to discuss a web or mobile application and the features required for the application. The customer can request both a mobile app and web application. Once the requirements are collected and the features have been defined, the Business Analyst will meet with the development team to discuss the features and the Development team will create a 
+The Business Analyst will meet with the customer to discuss a web or mobile application and the features required. The customer can request both a mobile app and a web application. Once the requirements are collected and the features have been defined, the Business Analyst will meet with the development team to discuss the features and the Development team will create a 
 
 1. Project timeline 
 2. Project roadmap

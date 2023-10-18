@@ -29,5 +29,5 @@ There are other variables that should be considered when creating a problem tick
 Ticket Follow up. We may need to follow up on tickets we submit to ensure the problem was handled, closed or if any additional details are required. It's also helpful to tie issue together if another customer calls in about the same issue. We can combined the issue and centralize ongoing reporting on the same issue instead of creating duplicate tickets. Many ticketing systems will have a unique identifier (UID) that is numerical value that allows us to look up tickets we have submitted. They often also include the ticket status and person working on it in the event that you need to reach out to them via chat messaging system. 
 
 {{% notice green "Protip" "rocket" %}}
-**Pro Tip:** Once the issue has been reported it will be assigned to someone to work on it. We can send a note to the ticket owner if we want to know more about the ticket or to ask or answer specific questions or need clarification in comments or steps made on the issue. 
+Once the issue has been reported it will be assigned to someone to work on it. We can send a note to the ticket owner if we want to know more about the ticket or to ask or answer specific questions or need clarification in comments or steps made on the issue. 
 {{% /notice %}}

@@ -3,9 +3,6 @@ title: Capstone Project
 weight: 116
 ---
 
-## Introduction to the capstone project
-This capstone is a summative assessment that should provide an opportunity for learners to synthesize large amounts of content and/or skills and to engage with course material creatively particularly in knowledge. In designing it thought carefully about the kind of mastery students should demonstrate. 
-
 ## Capstone Goals
 1. Research and Development 
 2. System Architecture and Design 
@@ -36,7 +33,11 @@ Using [Draw.io](https://www.draw.io) or similar tool to design the following log
 **Project: Logical Architecture for a Website Stored in AWS**
 Create visual representation of the logical architecture and all of the components. We are not expecting extensive knowledge on Amason that required VPC with subnets, route tables, internet gateway and NAT Gateway but a complete understanding of a web applications dataflow and design. Create a document that can answer the following questions.  
 
-- Project Overview, what is the project about? 
+## Platform Profile Questions
+Create a document that answers the following questions
+- Who is your target audience for the platform? 
+- Which personas do you think where used to create the technical documentation? 
+- What are some of the key features or capabilities of this solution offered to these audiences?
 - Web purpse does the web server have in the design?
 - What is an EC2 instance?
 - What consitions would qualify an S3 storage solution vs Database storage? 

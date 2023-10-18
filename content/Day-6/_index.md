@@ -90,6 +90,6 @@ Turn failure into stepping stones. Don’t be afraid to show what you learned or
 {{% /notice  %}}
 
 {{% notice green "Protip" "rocket" %}}
-**Pro tip:** Try to send the presentation to the group ahead of the meeting at least 24 hours at most 72 hours in advance to allow people time to review the deck before the meeting.  
+Try to send the presentation to the group ahead of the meeting at least 24 hours at most 72 hours in advance to allow people time to review the deck before the meeting.  
 {{% /notice %}}
 

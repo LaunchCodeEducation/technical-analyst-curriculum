@@ -38,8 +38,8 @@ The Password Reset case study provides a simple example of how to handle forecas
 
 Favorable wins is when we use and deploying all the tools previously mentioned (see case-study: Password Reset) to end a call with a customer/client. The order and timing is dynamic to each situation and should be used to neutralize or de-escalated a situation. Creating favorable outcomes are directly associated with setting and anchoring the expectation earlier in the interaction. 
 
-* For example, if all I am able to do is get you to a manager would that help you in any way today? 
 * Focus on collaborative problem-solving to reach mutually beneficial outcomes. Aim for solutions that satisfy the needs of both parties whenever possible.
+  * For example, if all I am able to do is get you to a manager would that help you in any way today? 
 * Establish what can happen and avoid talking about the things that are not possible
 
 In summary, dealing with irate customers requires finesse, patience, and a deep understanding of effective communication. Transforming challenging situations into favorable wins is not only a testament to our professionalism, it is also a commitment to customer/client satisfaction. It also is an opportunity to strengthen brand loyalty and our personal brand.  Adopting a customer-centric mindset, actively listening, demonstrating empathy, and offering tailored solutions, we turn the tide of dissatisfaction into a springboard for positive change. Continuously improving and having a dedication to learning from each customer interaction, we can navigate the customers experience and create favorable solutions.  

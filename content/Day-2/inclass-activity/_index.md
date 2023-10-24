@@ -20,8 +20,8 @@ Provides service support for businesses (B2B) and enterprises (B2E) that have pr
 
 
 ### Activity 2: Visualize Your Journey 
-Teacher Assistant (TAs) will play the role of a mentor and assist learners with coming up with ways to present their slides.
-In this activity learners will create a slide deck documenting their career journey using visual aids and Google Slides or Microsoft (MS) PowerPoint. The slide deck should be emailed to the CEM for review and added to the learner’s profile. 
+The Instructor will play the role of a mentor and assist learners with coming up with ways to present their slides.
+In this activity learners will create a slide deck documenting their career journey using visual aids and Google Slides or Microsoft (MS) PowerPoint. 
 
 
 

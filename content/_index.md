@@ -15,22 +15,3 @@ Customer Service professionals often lack the software and soft skills required 
 | Module 1     | Effective Communication    | 1 Week   |
 | Module 2     | Technical Analysis         | 2 Weeks  |
 | Module 3     | Capstone                   | 1 Week   |
-
-
-## Grading Scale 
-| Assignment            | Points |
-|:---------------------:|:------:|
-| In Class Assignments  |  25%   |
-| Assignments           |  25%   |
-| Final Exam            |  25%   |
-| Attendance            |  25%   |
-| Total	                |  100%  |
-
-## **(On-site) Gradable Assignments and Participation**
-| Assignment            | Points |
-|:----------:           |:------:|
-|Mock Interview         | 200 |
-|Resume Critique        | 150 |
-|Interview Follow-up    | 350 |
-|Case-Studies           | 300 |
-|Total                  | 1000 |

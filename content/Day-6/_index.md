@@ -4,8 +4,6 @@ weight: 106
 ---
 
 ## Technical Writing ( Day 1 )
-> _“ If everyone is moving forward together, then success takes care of itself “_ –Henry Ford
-***
 
 What is Technical Writing? It is the crafting of technical content that provides detailed steps on how to approach and solve a problem. The importance of documentation in engineering lies in knowledge preservation and sharing. When members of our team encounter unfamiliar systems or technologies, they can refer to the documentation to gain a better understanding of how the system functions. More significantly, they can formulate questions about the functionality of methods and design plans based on their existing knowledge.
 

@@ -37,7 +37,7 @@ Our initial steps involve establishing the framework for our documentation. We d
 
 ### Who Needs to Read This Document
 
-There might be two distinct audience members for this document: Tier 1 Help Desk and Tier 2 Support. Therefore, we should include relevant screenshots and notes for each team's review. As learned from [Module 1 Effective Communications](../Day-1/_index.md), we can gather additional information by asking open-ended questions about the reported issue and actively listening to identify broader issues. For instance, if a caller reports encountering a 404 error multiple times while trying to log in, which resolved after the fifth attempt upon refreshing the browser, this may signify an issue with application routing and warrant escalation to the network or application team for further analysis.
+There might be two distinct audience members for this document: Tier 1 Help Desk and Tier 2 Support. Therefore, we should include relevant screenshots and notes for each team's review. As learned from [Module 1: Effective Communication]({{< relref "../Day-1/_index.md" >}}), we can gather additional information by asking open-ended questions about the reported issue and actively listening to identify broader issues. For instance, if a caller reports encountering a 404 error multiple times while trying to log in, which resolved after the fifth attempt upon refreshing the browser, this may signify an issue with application routing and warrant escalation to the network or application team for further analysis.
 
 ### When Should They Read This Document
 

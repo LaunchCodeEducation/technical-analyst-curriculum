@@ -75,10 +75,10 @@ For web-based documentation, you can explore [web accessibility](https://www.w3.
 
 Although Steve Jobs and Jeff Bezos discouraged the use of PowerPoints, many organizations still rely on this form of communication for various reasons. One of the most crucial aspects to consider is the color palette. It's a good rule of thumb to use approved colors or those similar to what we've seen in other presentations within the organization. Often, the marketing team has already developed templates for both internal and external communications. When deciding on colors, select three to four main colors for the following areas:
 
-1. Text,
-2. Headings,
-3. Shapes/Images, and
-4. Callouts.
+1. Text
+2. Headings
+3. Shapes/Images
+4. Callouts
 
 When creating presentations, it's important to keep the text concise and supplement it with images. Make sure the text is large enough for everyone in the room to see, especially those at the back. Focus on engaging your audience through calls to action and visual callouts. 
 

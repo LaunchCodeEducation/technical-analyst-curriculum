@@ -4,7 +4,7 @@ weight: 109
 ---
 
 ## Customer Interactions
-***
+
 Documenting customer interactions and support calls requires gathering essential information to ensure we can work on the problem after the call ends. Some details include: 
 
 1. Customer name, 
@@ -20,7 +20,21 @@ Writing effective technical documentation and user manuals requires capturing th
 
 ## Lean Slide Decks
 
-Light, Effective, Aesthetically Neat (LEAN) Slide decks are how we want to present our information in an understandable format that can be clearly understood by most readers. Light in the acronym is a reference to how many slides are in the deck and how much information is displayed on each slide. If we can, we should limit our visuals to one (1) image. When selecting the images ask yourself, does this image, without any words, speak to my topic or subject? If it does, then we have a great image and we need little to no other words on the slide and we should move to the next topic in our presentation. Our goal is to keep the presentation hyper focused and provide the most effective information possible to impact the required change(s) needed. We should also ensure every slide speaks to the goal or meeting agenda to ensure we stay on target with our expected outcome from the meeting. The effective part of our presentation refers to the details we added or removed to ensure we captured only the relevant information. We can also leave links to connected topics but we _do not_ want to allow a different or separate topic to sidebar our meeting. especially if the topic is complex or controversial. Aesthetically pleasing is asking how beautiful the images or layout of the presentation is that we give. This can include fonts, colors, shapes, charts or layout templates. These choices may take some time to work out based on the type of information we are presenting and the audience we are targeting. However, it is important to consider these and other design choices when working through the aesthetics of talking points. Lastly, neat takes us back to the light, effective and aesthetic component of LEAN. Take time to remove any imagery, colors, words or bullets points that do not serve the main topic or support any of the subtopics in the presentation. Next, review you slide count and if you have more than 15 slides, review the entire deck looking for redundancy and topic that are not complementary to the agenda. These principles take time to implement and practice but they are worth investing time and thought into to ensure we can create better presentations for our audiences. 
+Light, Effective, Aesthetically Neat (LEAN) Slide Decks are how we want to present our information. We aim for an easily comprehensible format that can be understood by most readers. Let's break down each aspect of LEAN:
+
+### Light
+
+"Light" in the acronym refers to the number of slides and the amount of information on each slide. Ideally, we should limit our visuals to just one (1) image. When selecting images, ask yourself if the image alone effectively conveys your topic or subject. If it does, then that image can stand on its own, requiring little to no additional text on the slide. This approach keeps the presentation highly focused and delivers the most impactful information to achieve the necessary changes. Each slide should align with the meeting agenda to ensure we stay on track with our expected meeting outcomes.
+
+### Effective
+
+The "effective" aspect of our presentation relates to the details we include or remove to capture only the relevant information. We can leave links to related topics, but we should avoid allowing unrelated or complex topics to sidetrack our meeting, especially if they are controversial.
+
+### Aesthetically Neat
+
+"Aesthetically Neat" assesses how visually appealing the images or layout of the presentation are. This encompasses elements like fonts, colors, shapes, charts, or layout templates. The choices you make here may vary based on the type of information you're presenting and the target audience. It's essential to consider design choices when working on the aesthetics of your presentation. Take the time to remove any elements such as imagery, colors, words, or bullet points that don't serve the main topic or support subtopics in the presentation. Review the slide count, and if you have more than 15 slides, scrutinize the entire deck for redundancy and topics that don't align with the agenda.
+
+These principles may require some practice and time investment, but they are valuable for creating better presentations that resonate with your audience.
 
 ## Beyond Bullet Points 
 

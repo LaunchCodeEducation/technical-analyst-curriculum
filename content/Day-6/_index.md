@@ -7,15 +7,17 @@ weight: 106
 > _“ If everyone is moving forward together, then success takes care of itself “_ –Henry Ford
 ***
 
-What is Technical Writing? It is the writing of technical content with detailed steps on how to approach or solve a problem. The importance of documentation in engineering is knowledge preservation and sharing. When members of our team are unfamiliar with a system or technology they can read and use the documentation as reference to learn more about how the system functions. Perhaps more importantly, they can form questions about the functionality of methods and design plans based on their existing knowledge. Many organizations have already documented the processes, design plans, technical architecture, logical and physical designs. Our task is to get familiar with the documentation and have our colleagues help with fill in any knowledge gaps as we get better acquainted with systems and workflows within the organization. 
+What is Technical Writing? It is the crafting of technical content that provides detailed steps on how to approach and solve a problem. The importance of documentation in engineering lies in knowledge preservation and sharing. When members of our team encounter unfamiliar systems or technologies, they can refer to the documentation to gain a better understanding of how the system functions. More significantly, they can formulate questions about the functionality of methods and design plans based on their existing knowledge.
 
-Documenting customer interactions and support calls is a form of documentation that can help share the knowledge of a call with other team members during a given work week. They can review our notes and discern the next logical steps to take to help resolve the issue without repeating previous steps. Writing effective technical documentation, user manuals or call notes follow the same process which includes but is not limited to:
+Many organizations have already documented their processes, design plans, technical architecture, and logical and physical designs. Our task is to familiarize ourselves with this documentation and have our colleagues help fill in any knowledge gaps as we become better acquainted with the systems and workflows within the organization.
 
-* Formatting and organizing documentation for clarity
-* Reviewing and editing documentation for accuracy and completeness
-* Knowledge of our audience (readers)
-* Visual aids 
-* Step-by-step instructions and conditional call outs 
+Documenting customer interactions and support calls is a valuable form of documentation that aids in sharing the knowledge acquired during a call with other team members throughout a workweek. This enables them to review our notes and determine the next logical steps to resolve the issue without retracing previously taken steps. Writing effective technical documentation, user manuals, or call notes follows a consistent process that includes, but is not limited to:
+
+- Formatting and organizing documentation for clarity.
+- Reviewing and editing documentation for accuracy and completeness.
+- Understanding our audience (readers).
+- Utilizing visual aids.
+- Providing step-by-step instructions and conditional callouts.
 
 ## Writers Framework 
 

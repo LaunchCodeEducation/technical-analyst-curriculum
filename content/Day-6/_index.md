@@ -73,8 +73,6 @@ For web-based documentation, you can explore [web accessibility](https://www.w3.
 
 ## Presentation and Visual Impact 
 
-> “ I hate it when people use PowerPoints instead of thinking. People confront a problem by creating a presentation. I want them to engage,  hash things out at the table, rather than show a bunch of slides. People who know what they’re talking about don’t need PowerPoint.” – Steve Jobs
-
 Although Steve Jobs and Jeff Bezos discouraged the use of PowerPoints, many organizations still rely on this form of communication for various reasons. One of the most crucial aspects to consider is the color palette. It's a good rule of thumb to use approved colors or those similar to what we've seen in other presentations within the organization. Often, the marketing team has already developed templates for both internal and external communications. When deciding on colors, select three to four main colors for the following areas:
 
 1. Text,

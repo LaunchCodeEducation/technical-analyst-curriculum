@@ -4,8 +4,12 @@ weight: 107
 ---
 
 ## Existing documentation and knowledge systems
-***
-Many large and medium sized organizations that have been around for several years already have a large number of contributions from many different contractors and engineers. These existing documents, software and comments are part of the organization's knowledge management system or knowledge base. We can search these knowledge base systems to find answers to questions that we have or to troubleshoot an issue. Poor documentation leads to poor support and negatively impacts technical support. When we are new to our teams, we are not expected to know everything but we are expected to learn where and how to find the information we need. We should ask often for links to documentation that will provide more in depth learning of a given topic or subject. Once we have a fresh understanding and new perspective of the software product, we can ask questions using the referenced documentation links. If the documentation only lives in a single developer’s head, we should learn how it is done and document it and share it with the developer/engineer to ensure you've captured the steps properly. Then share it with the larger team.
+
+Many large and medium-sized organizations, with years of history, have accumulated a wealth of contributions from various contractors and engineers. These contributions include existing documents, software, and comments, all integrated into the organization's knowledge management system or knowledge base. These knowledge base systems serve as valuable resources, allowing us to search for answers to our questions or troubleshoot issues.
+
+Poor documentation can lead to inadequate support and have a detrimental effect on technical support. As newcomers to our teams, it's understood that we won't have all the answers from the get-go, but we are expected to learn where and how to access the necessary information. It's essential to frequently request links to documentation that offer in-depth insights into specific topics or subjects.
+
+Once we've gained a solid understanding and a fresh perspective on the software product, we can ask questions using the provided documentation links. In cases where documentation resides solely in the mind of a single developer, it's crucial to learn the process, document it accurately, and share it with the developer or engineer to ensure the steps are correctly captured. Subsequently, share this documented knowledge with the larger team.
 
 {{% notice green "Protip" "rocket" %}}
 Take note of the last updated date when reading documentation. We want to look for versions, last edited, last changed to ensure the documentation is still relevant. This tells us if the document is still changing but more importantly, if there is active participation with keeping the documentation updated.  
@@ -13,15 +17,23 @@ Take note of the last updated date when reading documentation. We want to look f
 
 ## What Are Standards and Policies
 
-Standards are a uniformed way to create or build a system in software that everyone has to follow. They help us establish the normal way of performing a task. Polices are the special rules to follow that govern the task being performed in an organized and uniformed way. For example, when we write our names on an online employment application, we capitalize the first letters of our first and last name and we can use digital ink (soft copies). However, when we get hired, we use our signature on the legally binding documents in blue or black ink (also referred to as hard copies). The policy says all other documents signed in any other color are not to be reviewed or they are not considered completed. 
+Standards and policies play a vital role in software development, ensuring that systems are consistently created and that tasks are performed uniformly. Standards provide a structured way to build a system that everyone must adhere to, while policies are specific rules governing the organized and uniform execution of tasks.
 
-In software design, we need standards and policies to ensure we build the right system, the same way, every time. Without standards and policies every engineer could implement their own designs very differently leading to project delay and late project delivery. Part of troubleshooting requires understanding the application architecture, networking (aka communication) and object-oriented programming (OOP) concepts. Many software products today contain an OOP design implementation. We need to understand the fundamentals to better understand the problem. Object oriented programming is creating reusable software that can be implemented in other systems. 
+For instance, consider the practice of signing one's name on an online employment application. Standards dictate that we capitalize the first letters of our first and last names, and we can use digital ink (soft copies). However, when it comes to legally binding documents upon being hired, policies require us to use our signature in blue or black ink (hard copies). Any other colors are not accepted or considered as completing the document.
 
-Think of OOP it like home decor. Let’s say we designed a primary bedroom that had a water fountain, large floor carpet, ceiling fan, large windows and walk-in closet. Then we buy our second home but this time, we want the same room but different color carpet and no ceiling fan. In real life, we would have to move all of our things from the old room to the new one. In OOP we just instantiate the class (Room house2 = new Room()) and remove the methods for the ceiling fans and carpet. This is similar to copying and pasting all the items from house 1 primary bedroom to house 2 primary bedroom (minus the features we’d like to change) without the need to start from scratch with a new design. In object-oriented programming the Room object would be known as a class. We could take this example a step further and create every object in the room as a class/object itself, and give each object its own properties (colors, height, width etc.) but that is a bit more complicated to explain but is possible in this design concept. 
+In software design, standards and policies are essential to ensure that systems are constructed consistently and accurately. Without these guidelines, engineers might implement designs in vastly different ways, leading to project delays and late deliveries. Troubleshooting in the software field also necessitates a solid grasp of application architecture, networking (communication), and object-oriented programming (OOP) concepts. Many modern software products are built using an OOP design, making it crucial to understand the fundamentals for effective problem-solving.
+
+To grasp the concept of object-oriented programming, consider it like home decor. Imagine designing a primary bedroom with specific features, and later, you want the same room but with a different color carpet and no ceiling fan. In real life, you'd need to move all your belongings from the old room to the new one. However, in OOP, you create an instance of the class (e.g., Room house2 = new Room()), remove the methods for the ceiling fan and carpet, and the new room is ready. This is akin to copying and pasting all the items from the first primary bedroom to the second, with the changes you desire, without starting from scratch with a new design.
+
+In object-oriented programming, the Room object is known as a class, and you can take this concept further by creating each object in the room as a class with its unique properties (colors, height, width, etc.), although this is a more advanced aspect of the design concept.
 
 ## Intro to Basic Networking
 
-Networking is about connectivity from machine to machine in most instances. This could be computer to computer or laptop to Wireless Fidelity (WIFI) router. Recall in the section on “Effective Communication” Chapter where we talk about clear communication between people. Networking in social spaces or with computers is all about communication. The media we choose to communicate over (WIFI, ethernet, Bluetooth etc.) is just the medium to the other device on the network. A critical component of communication is device endpoints. If we know the device, we are connecting to we can create a proper connection. For example, inside Launch Code, our laptops can connect to the Launch Code sponsored WIFI. In order to connect to the router, we need the WIFI password. Once we have the password, we will be routed to the modem that is connected to our Internet Service Provider (ISP), then to the site we requested. What happens if we have a working password and we cannot get to the site we requested? This is where basic connectivity troubleshooting can help us diagnose the problem. We first need to understand the application architecture of the systems we’re using then we can begin troubleshooting. 
+Networking is primarily about establishing connectivity between devices. This connection could be between computers, laptops, or between a laptop and a Wireless Fidelity (WIFI) router. In the section on "Effective Communication," we discussed the importance of clear communication between people. Networking, whether in social spaces or with computers, revolves around communication. The choice of communication medium (such as WIFI, ethernet, Bluetooth, etc.) serves as the conduit to the other device on the network.
+
+A crucial aspect of communication in networking is device endpoints. Knowing the specific device you are connecting to is essential for establishing a proper connection. For instance, within Launch Code, our laptops can connect to the Launch Code-sponsored WIFI. To connect to the router, we require the WIFI password. Once we have the password, we follow a path from the modem connected to our Internet Service Provider (ISP) to the site we wish to access.
+
+However, what if we have a working password but still can't reach the desired site? This is where basic connectivity troubleshooting becomes valuable. First, we need to understand the application architecture of the systems we're using, and from there, we can begin the troubleshooting process.
 
 ## Application Architecture
 
@@ -32,8 +44,8 @@ Always ask for a logical or physical application diagram when working a technica
 The Open Systems Interconnection (OSI) Model is a conceptual framework that _standardizes_ the functions of networking or telecommunications into seven distinct layers.
 {{% /notice %}}
 
-1. Physical ( Layer 1) 
-2. Data Link ( Layer 2)
+1. Physical (Layer 1) 
+2. Data Link (Layer 2)
 3. Network (Layer 3) 
 4. Transport (Layer 4) 
 5. Session (Layer 5) 

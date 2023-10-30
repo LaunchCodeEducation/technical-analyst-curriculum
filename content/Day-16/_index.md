@@ -9,9 +9,26 @@ weight: 116
 3. Technical Writing 
 4. Logical Architecture 
 
+## Logical Architecture Features 
+1. Load Balancers Architecture (Web Front-End)
+2. Virtual Machines with Packer Images 
+3. Chef Server Configuration 
+4. CI/CD using Jenkins  
+5. CI/CD using GitLab
+6. Firewall or DMZ Zones or VPC/VPN Access 
+7. Database Redunancy
+8. Docker Production Server Deployment  
+9. External Network Operating System Builds
+10. Intranet and Internet Access 
+11. Role based access to Production, Developer, Testing Servers 
+12. Load Balancers Architecture (Database) with one of the following
+    1.  Google Firebase 
+    2.  MySQL 
+    3.  MongoDB
+
+
 ## Capstone: Website Architecture Design Logical Architecture
-Create a fictious company name and logo. Add the logo to the document that will be the technical application design. 
-Using [Draw.io](https://www.draw.io) or similar tool to design the following logical architecture for a website stored in AWS. Use icons for each compoent and remember the takeaways from the topics we covered on how to create a presentation. Add the locgial design to the document once you have completed architecture. Below are the components you design should include: 
+Create a fictious company name (and logo optionally). Add the logo or the first letter of the Company name to the document that will be the technical application design. Using [Draw.io](https://www.draw.io) or similar tool to design the following logical architecture for a website stored in AWS. Use icons for each compoent and remember the takeaways from the topics we covered on how to create a presentation. Add the locgial design to the document once you have completed architecture. Below are the components you design should include: 
 
 **Logical Architecture Components**
 1. Web Server 
@@ -48,5 +65,5 @@ Create a document that answers the following questions
 - What is a Virtual Private Network and why would you use one?
 - What is a RSA Token and how is it used 
 - What is a firewall and what purpose does it have in an organization? 
-  - How is access filtered by firewalls  
+  - How is access filtered by firewalls? 
 

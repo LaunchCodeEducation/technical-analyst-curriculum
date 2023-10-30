@@ -17,6 +17,18 @@ Documenting customer interactions and support calls is a valuable form of docume
 - Utilizing visual aids.
 - Providing step-by-step instructions and conditional callouts.
 
+## Business Writing 
+
+We will delve into the more technical aspects of writing in the second (2nd) week of the training. Business writing encompasses, but is not limited to, emails, chat servers (Teams, Slack, Discord, etc.), social media posts (Facebook, Twitter, etc.), and other documentation formats we read or consume while working on the job. While employed at a company, our social media profiles (Facebook, LinkedIn, etc.) are considered a representation of the company. Unless otherwise stated in your posted content or company policy, if a reader sees your post and finds it offensive, it can be considered a reflection of the company you are employed by at the time. 
+
+When we post, we should be mindful of what we are sharing, especially if it pertains to a controversial topic. If you have doubts, it is advisable to consult the marketing or media department before posting on your social media accounts. Our social profiles are public information, which means it's very easy to discover where someone works, as we often update our LinkedIn profiles with promotions, job changes, and announcements. Some organizations have a media policy that we may need to revisit and review before commenting or posting on publicly-facing articles. Make sure to familiarize yourself with any existing policies and review all the onboarding documents signed upon gaining employment.
+
+Additionally, any communication you have on company software can possibly be reviewed, stored, and secured for legal purposes. We should be mindful to only use approved communication methods on company-owned systems and equipment to ensure data remains private and secure. Our emails should follow the same guidelines provided in the Presentation Checklist section, with an exception for visual aids and bullet points. Use bullet points to highlight important steps or actions for the recipients. 
+
+{{% notice green Tip "rocket" %}}
+Try to avoid composing lengthy emails, as in most cases, only the bullet points will be scanned or reviewed. Plan for a follow-up email if several days pass before you receive a reply, and open with empathy because we never know what someone else may be experiencing at the time we contact them.
+{{% /notice %}}
+
 ## Writer's Framework
 
 Our initial steps involve establishing the framework for our documentation. We determine the subject matter, the target audience, and the key information we intend to convey before commencing the writing process. This framework is universally applicable and can be employed for creating presentations, research papers, as well as fiction and non-fiction pieces.

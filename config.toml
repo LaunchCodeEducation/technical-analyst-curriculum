@@ -1,8 +1,11 @@
-baseURL = 'https://technical-analyst-curriculum/.netlify.app/'
+baseURL = 'https://technical-analyst-curriculum.netlify.app/'
 languageCode = 'en-us'
 title = 'Technical Analysis Course'
 theme = "hugo-theme-relearn"
 canonifyURLs = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
 [params]
 themeVariant = ['lc-light', 'lc-dark-blue', 'lc-dark-blue-two']

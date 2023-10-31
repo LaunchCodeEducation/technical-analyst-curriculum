@@ -43,7 +43,7 @@ In addition to the one of the above features, you are required to have all the f
 13. Client Machine(s)
 
 ## Class Material and Resources
-We have curated a list of resources for you to start reviewing. This is not an all-inclusive list, but it creates the foundation for many of the features you will need to get started. We recommend that you start reviewing these resources this week as they will build upon each other as you start to better understand system architecture. One of your goals to successfully complete the Capstone is to combine the communication between the concepts below in a visual presentation and explain the data flow of the application. 
+We have curated a list of resources for you to start reviewing. This is not an all-inclusive list, but it creates the foundation for many of the features you will need to get started. We recommend that you start reviewing these resources this week as they will build upon each other as you start to better understand system architecture. One of your goals to successfully complete the Capstone is to combine the communication between the concepts below in a visual presentation and explain the data flow of the application. For a general overview of AWS documentation, tools and products, [view the AWS welcome page](https://docs.aws.amazon.com/?nc2=h_ql_doc_do). 
 
 ## Resource Links 
 1. [Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)

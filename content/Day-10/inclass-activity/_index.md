@@ -19,3 +19,12 @@ Steps
     1. Index
     2. Source
     3. Sourcetype Dan.Schwent@mastercard.com; Kenneth.Whitfield@mastercard.com
+
+## Capstone Milestone
+At this point you should have the 
+1. Problem Scope
+2. Business Case 
+3. User Persona 
+4. [Writers Framework](../../Day-6/_index.md) 
+5. Created the Leaners Profile 
+6. Basic Outline for your presentation 

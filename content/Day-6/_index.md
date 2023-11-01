@@ -4,86 +4,103 @@ weight: 106
 ---
 
 ## Technical Writing ( Day 1 )
-> _“ If everyone is moving forward together, then success takes care of itself “_ –Henry Ford
-***
 
-What is Technical Writing? It is the writing of technical content with detailed steps on how to approach or solve a problem. The importance of documentation in engineering is knowledge preservation and sharing. When members of our team are unfamiliar with a system or technology they can read and use the documentation as reference to learn more about how the system functions. Perhaps more importantly, they can form questions about the functionality of methods and design plans based on their existing knowledge. Many organizations have already documented the processes, design plans, technical architecture, logical and physical designs. Our task is to get familiar with the documentation and have our colleagues help with fill in any knowledge gaps as we get better acquainted with systems and workflows within the organization. 
+What is Technical Writing? It is the crafting of technical content that provides detailed steps on how to approach and solve a problem. The importance of documentation in engineering lies in knowledge preservation and sharing. When members of our team encounter unfamiliar systems or technologies, they can refer to the documentation to gain a better understanding of how the system functions. More significantly, they can formulate questions about the functionality of methods and design plans based on their existing knowledge.
 
-Documenting customer interactions and support calls is a form of documentation that can help share the knowledge of a call with other team members during a given work week. They can review our notes and discern the next logical steps to take to help resolve the issue without repeating previous steps. Writing effective technical documentation, user manuals or call notes follow the same process which includes but is not limited to:
+Many organizations have already documented their processes, design plans, technical architecture, and logical and physical designs. Our task is to familiarize ourselves with this documentation and have our colleagues help fill in any knowledge gaps as we become better acquainted with the systems and workflows within the organization.
 
-* Formatting and organizing documentation for clarity
-* Reviewing and editing documentation for accuracy and completeness
-* Knowledge of our audience (readers)
-* Visual aids 
-* Step-by-step instructions and conditional call outs 
+Documenting customer interactions and support calls is a valuable form of documentation that aids in sharing the knowledge acquired during a call with other team members throughout a workweek. This enables them to review our notes and determine the next logical steps to resolve the issue without retracing previously taken steps. Writing effective technical documentation, user manuals, or call notes follows a consistent process that includes, but is not limited to:
 
-## Writers Framework 
+- Formatting and organizing documentation for clarity.
+- Reviewing and editing documentation for accuracy and completeness.
+- Understanding our audience (readers).
+- Utilizing visual aids.
+- Providing step-by-step instructions and conditional callouts.
 
-Our first steps help us create the framework for our documentations and determine what we are writing about, who we are writing for and what we want our readers to know before we start writing. These are the fundamental parts of our writing. This is a universal framework that we can use to create presentations, research papers, fiction and non-fiction artifacts. 
+## Business Writing 
 
-### Writers Framework 
-1. Who needs to read this document?    
-2. When should they read this document and what should it include/exclude?
-3. What is the document about? 
-4. How can they use this information going forward?  
-5. Identify Key Points or Objectives 
+We will delve into the more technical aspects of writing in the second (2nd) week of the training. Business writing encompasses, but is not limited to, emails, chat servers (Teams, Slack, Discord, etc.), social media posts (Facebook, Twitter, etc.), and other documentation formats we read or consume while working on the job. While employed at a company, our social media profiles (Facebook, LinkedIn, etc.) are considered a representation of the company. Unless otherwise stated in your posted content or company policy, if a reader sees your post and finds it offensive, it can be considered a reflection of the company you are employed by at the time. 
 
-### Situation: Using The Writers Framework For Password Reset 
+When we post, we should be mindful of what we are sharing, especially if it pertains to a controversial topic. If you have doubts, it is advisable to consult the marketing or media department before posting on your social media accounts. Our social profiles are public information, which means it's very easy to discover where someone works, as we often update our LinkedIn profiles with promotions, job changes, and announcements. Some organizations have a media policy that we may need to revisit and review before commenting or posting on publicly-facing articles. Make sure to familiarize yourself with any existing policies and review all the onboarding documents signed upon gaining employment.
 
-**A customer password reset** password reset is the most common help desk issue. It’s also the easiest one to resolve. Let’s walk through an example of a framework. We work in a call center and we get multiple calls a day. Assume that we have a note taking application for call notes and a knowledge management system for research. You are a Technical Service Analyst and you receive a call for a password reset. 
+Additionally, any communication you have on company software can possibly be reviewed, stored, and secured for legal purposes. We should be mindful to only use approved communication methods on company-owned systems and equipment to ensure data remains private and secure. Our emails should follow the same guidelines provided in the Presentation Checklist section, with an exception for visual aids and bullet points. Use bullet points to highlight important steps or actions for the recipients. 
 
-**Note:** this is a simple example that may exist in smaller organizations. In a larger organization you will use several knowledge management systems and potentially two or three ticketing systems for reporting issues. For our example, we are keeping things simple. 
+{{% notice green Tip "rocket" %}}
+Try to avoid composing lengthy emails, as in most cases, only the bullet points will be scanned or reviewed. Plan for a follow-up email if several days pass before you receive a reply, and open with empathy because we never know what someone else may be experiencing at the time we contact them.
+{{% /notice %}}
 
-### 1. Who needs to read this document
+## Writer's Framework
 
-We may have two different people in attendance (our audience). For the sake of this example, let’s call these two audience members Tier 1 Help Desk and Tier 2 Support. We could be writing for both our team members and the escalation team so we should include all relevant screenshots and capture notes for each respective team to review.  Using what we’ve learned from [Module 1 Effective Communications](../Day-1/_index.md), we can gather more information about the issue by asking open ended questions about the reported issue and what the customer is experiencing. Then using active listening to tune into anything that sounds like a larger issue. For example, if the caller/client says I got a 404 message several times when trying to login but it worked after the fifth (5) try when I refreshed the browser. This could mean there’s an issue with the application routing and should be escalated to the network or application team for further analysis. 
+Our initial steps involve establishing the framework for our documentation. We determine the subject matter, the target audience, and the key information we intend to convey before commencing the writing process. This framework is universally applicable and can be employed for creating presentations, research papers, as well as fiction and non-fiction pieces.
 
-### 2. When should they read this document 
+1. Who is the intended audience for this document?
+2. When should they refer to this document, and what should it contain or omit?
+3. What is the document's topic?
+4. How can the readers utilize the information provided?
+5. Identify the key points or objectives.
 
-This document can be used as a reference document and can be used to reset a user's password at the Tier 1 level of support. It does not include changing a user’s login name/details or account information. If the user needs to complete any steps other than password reset for their account, they should be escalated to Tier 2 Support. 
+## Situation: Using the Writer's Framework for Password Reset
 
-### 3. What is the document about 
+**Password reset for a customer** is one of the most common issues encountered by help desks. It is also one of the simplest to resolve. Let's walk through an example using this framework. Imagine working in a call center with a note-taking application for call notes and a knowledge management system for research. You, as a Technical Service Analyst, receive a call for a password reset.
 
-In this section we show them how to properly authenticate and verify a user before resetting the user’s password. It includes the required firewalls to log into and what application should be used to reset the user’s password, and how to verify successful password changes. This section will also detail the self-service steps that allow users to reset their own passwords. 
+**Note:** This example pertains to smaller organizations. Larger organizations may use multiple knowledge management systems and two or three ticketing systems for issue reporting. For our illustration, we will keep things straightforward.
 
-### 4. How can they user this information going forward
+### Who Needs to Read This Document
 
-Technical analysts can skip all the previous steps above and work with the development team to create a self-service solution that allows our users to reset their passwords using the self-hosted and self-service application. 
+There might be two distinct audience members for this document: Tier 1 Help Desk and Tier 2 Support. Therefore, we should include relevant screenshots and notes for each team's review. As learned from [Module 1: Effective Communication]({{< relref "../Day-1/_index.md" >}}), we can gather additional information by asking open-ended questions about the reported issue and actively listening to identify broader issues. For instance, if a caller reports encountering a 404 error multiple times while trying to log in, which resolved after the fifth attempt upon refreshing the browser, this may signify an issue with application routing and warrant escalation to the network or application team for further analysis.
 
-### 5. Identify Key Points or Objectives
+### When Should They Read This Document
 
-The purpose of this document is to reduce the Mean Time To Respond (MTTR) in password reset calls with a document that captures the required steps for Technical Analyst to complete this task. 
+This document serves as a reference guide for performing password resets at the Tier 1 support level. It does not cover changing a user's login name/details or account information. If the user requires steps other than a password reset, they should be escalated to Tier 2 Support.
 
-## Learner Profile (Technical, non-technical)
+###  What Is the Document About
 
-A learner's profile (aka target audience) is another approach for technical writing in that we are often writing for both technical and non-technical users. This means we must take a different approach when explaining complex technical designs and design presentations if our learner's profile is for a non-technical reader. We should also stay away from using industry jargon, which are the standard words and terminology used by professionals in the particular field. For example, a sales team would use words that make sense to other sales people but may not mean the same thing if that sales person was talking to a software engineer and vice versa. This means our technical writing should include charts and other visual aids to help express our message. We may be writing for developers, engineers or executives leadership teams (Vice President (VP), Chief Executive Officer (CEO) etc.). We should ensure our audience can keep up with the key points of the presentation and not get hung up on words and terms we have used to explain a concept.
+This section details the proper steps for authenticating and verifying a user before resetting their password. It includes the necessary firewalls to log in, the application for password reset, and how to confirm successful password changes. Additionally, this section provides information on self-service steps for users to reset their own passwords.
 
-1. Will anyone in your audience have preexisting knowledge of the content in your presentation? 
-2. Will you have any Subject Matter Experts (SME’s) in the room? 
+### How Can They Use This Information Going Forward
 
-If either of the previous questions are true, we have to addressed their potential concerns or invited the SME to help with the presentation. We need to know how to best tell our story rather than provide bullet points and text on the screen or in an email. Another consideration is with font-size. We want our font to be readable and consider that some team members may be color blind or wear glasses. That means if we highlight text in a particular color like red. We may want to ensure we consider other colors or explain what the red color represents in our communication to the team. There are many types of readers to consider and we do not have to try to remember them all but we should be familiar with accessibility standards. You can read more about [web accessibility](https://www.w3.org/WAI/standards-guidelines/wcag/) for web based documentation but also should be aware of the other types of accessibility in reference to documentation that we create for mass consumption. Some accessibility areas include but is not limited to:  
+Technical analysts can streamline the steps and collaborate with the development team to implement a self-service solution for users to reset their passwords using a self-hosted application.
 
-* Font-Size 
-* Colors 
-* Language 
-* Proper Headings 
-* Text Readability 
-* Image alternate text
+### Identify Key Points or Objectives
+
+The document's purpose is to reduce the Mean Time To Respond (MTTR) for password reset calls by outlining the required steps for Technical Analysts to complete this task.
+
+## Learner Profile (Technical, Non-Technical)
+
+When creating technical documents, we often cater to both technical and non-technical users. In such cases, it's essential to adjust our approach for explaining complex technical concepts and design presentations. We should avoid using industry-specific jargon, which may not be understood by individuals outside the field. Visual aids, such as charts, can enhance our message's clarity. Our audience may include developers, engineers, or executive leadership teams (e.g., Vice Presidents, Chief Executive Officers), so it's crucial to ensure that our content is comprehensible and not bogged down by technical terminology.
+
+1. Does anyone in your audience possess prior knowledge of the content in your presentation?
+2. Will there be Subject Matter Experts (SMEs) present?
+
+If either of the above questions holds true, we should address their potential concerns and consider involving SMEs in the presentation. We must focus on storytelling rather than providing mere bullet points or text on the screen or in an email. Additionally, we should pay attention to font size, making sure it's readable for all team members, including those with color blindness or those who wear glasses. If we use color highlighting, it's advisable to explain its significance. Accessibility standards should be considered, including but not limited to:
+
+- Font size
+- Color usage
+- Language
+- Proper headings
+- Text readability
+- Image alternative text
+
+For web-based documentation, you can explore [web accessibility](https://www.w3.org/WAI/standards-guidelines/wcag/), and it's important to be aware of other accessibility aspects in the documentation created for a broader audience.
 
 ## Presentation and Visual Impact 
 
-> “ I hate it when people use PowerPoints instead of thinking. People confront a problem by creating a presentation. I want them to engage,  hash things out at the table, rather than show a bunch of slides. People who know what they’re talking about don’t need PowerPoint.” – Steve Jobs
+Although Steve Jobs and Jeff Bezos discouraged the use of PowerPoints, many organizations still rely on this form of communication for various reasons. One of the most crucial aspects to consider is the color palette. It's a good rule of thumb to use approved colors or those similar to what we've seen in other presentations within the organization. Often, the marketing team has already developed templates for both internal and external communications. When deciding on colors, select three to four main colors for the following areas:
 
-Although Steve Jobs and Jeff Bezos banned PowerPoints, many organizations still use this form of communication for many different reasons. One of the most important things to decide on the color palette. Using approved colors or similar colors we have seen on other presentations in the organization is a good rule of thumb. Often, the marketing team has already created templates that should be used for both internal and external communications. When deciding on colors pick three to four main colors for the following areas: 
+1. Text
+2. Headings
+3. Shapes/Images
+4. Callouts
 
-1. Text, 
-2. Headings, 
-3. Shapes/Images and 
-4. Call outs. 
+When creating presentations, it's important to keep the text concise and supplement it with images. Make sure the text is large enough for everyone in the room to see, especially those at the back. Focus on engaging your audience through calls to action and visual callouts. 
 
-We want to avoid lots of text on the screen and use as little text as possible along with our images. We should also ensure the text size is larger enough to see from the back of a large room. Engagement with our presentation should be driven by the calls to action or call outs to items we want to bring attention to in a visual. For example, assume we had a sale chart for twelve (12) months and there is a month that has a negative impact on the total months. We could highlight the negatively impacted month in red and make other areas a ligher pink color to bring the viewers attention directly to the point of the presentation when the slide is shown. Highlighting this month may bring questions or it may be the central point of your argument. Pay keen attention to details for both internal and external influences on your visuals. 
+For instance, consider a sales chart covering a year, where one month significantly affects the total. You can highlight the problematic month in red and use a lighter pink for other areas to draw attention to the key point of the slide. This highlighting can spark questions or become the main talking point. 
 
-There could be outside factors acting on our data. For example, if the sales data in the previous example was covering iPhone sales, we may notice that sales increased in December of a given calendar year. Does this mean many people got new iPhones for Christmas? Also, be mindful of what is not included, like cell phone providers. We don’t know which mobile phone providers had the most sucess in this calendar year. Are all the phone providers doing well during this holiday season or just one? Are all the providers lump in together? We must do our due diligence when reporting because our slides may be shared between teams, departments or publicly and we want to answer as many questions as we can in our presentation. Remember, always save 10-15 minutes at the end of a presentation for questions and answers (Q&A). There could be a room full of people waiting to the end of the presentation to ask questions but they wanted to get the full picture before jumping into a conversation. 
+Keep in mind that external factors can impact your data. If, for example, you're looking at iPhone sales data, you might notice a spike in December. Does this mean people bought iPhones for Christmas gifts? 
+
+Also, think about what's missing, like data on different cell phone providers. We might not know which provider was most successful that year. Are all providers doing well during the holidays, or just one? 
+
+It's crucial to report diligently, especially because your slides may be shared with teams, departments, or the public. Prepare to answer questions by setting aside 10-15 minutes for a Q&A at the end of your presentation. Some people may wait until the end to ask questions, as they want the full picture before discussing it further.
 
 {{% notice green "Protip" "rocket" %}}
 Turn failure into stepping stones. Don’t be afraid to show what you learned or where the project failed. This can help others engage in the conversation or get involved in the conversation or project. 

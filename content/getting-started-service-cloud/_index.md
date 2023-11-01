@@ -38,6 +38,8 @@ Once you have your account created, login to Salesforce.com. This will alllow yo
 Module 1
 [Begin Your Customer Service Journey](https://trailhead.salesforce.com/content/learn/modules/service_lex/service_lex_cloud?trail_id=service_cloud_move) (~15m)
 
+- Submodule[Create a Trailhead Playground](https://trailhead.salesforce.com/content/learn/modules/trailhead_playground_management/create-a-trailhead-playground)
+
 Module 2
 [Administer Service Cloud](https://trailhead.salesforce.com/content/learn/modules/service_lex/service_lex_connect?trail_id=service_cloud_move) (~20m)
 

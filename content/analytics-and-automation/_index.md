@@ -3,8 +3,6 @@ title: "Chapter 12: Analytics and Automation"
 weight: 112
 ---
 
-Here is the corrected content with grammar and punctuation improvements:
-
 ## Intro to Dynatrace
 
 What is Dynatrace? Dynatrace is an analytics and automation provider for unified observability and security. The Application Performance Monitoring (APM) feature provides automated, code-level visibility and transactional context for complex enterprise applications. It can detect and monitor microservices across hybrid environments, which include servers that are on-premises and in the cloud. We can also manage and analyze log files on connected devices to troubleshoot reported issues. With Log Management and Analytics, we can explore millions of log files across the enterprise with a single application interface. Similar to Splunk, Dynatrace has its own query language, Dynatrace Query Language (DQL), for querying data and viewing results.

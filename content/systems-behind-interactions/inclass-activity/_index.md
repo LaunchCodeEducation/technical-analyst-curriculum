@@ -9,7 +9,7 @@ The class instructor witll walk through the installation of Splunk. Then, Using 
 // To Do: Create Instructor Video Walk-Through 
 
 Steps 
-(visit the Splunk site)[https://www.splunk.com/en_us/download.html] and download Splunk Enterprise free trial. 
+[visit the Splunk site](https://www.splunk.com/en_us/download.html) and download Splunk Enterprise free trial. 
 
 1. Splunk 9.x.x Install 
 2. Splunk Interface Walk-through 

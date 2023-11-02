@@ -34,7 +34,8 @@ The next 2 days you will be working with Salesforce Service Cloud Trailhead. Sal
 
 Once you have your account created, login to Salesforce.com. This will alllow you to earn points while you are learning about Service Cloud. 
 
-### Part 1
+### Salesforce Modules Part 1
+
 Module 1
 [Begin Your Customer Service Journey](https://trailhead.salesforce.com/content/learn/modules/service_lex/service_lex_cloud?trail_id=service_cloud_move) (~15m)
 

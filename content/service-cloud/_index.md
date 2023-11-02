@@ -5,7 +5,7 @@ weight: 105
 
 Today you will continue your training with Service Cloud. Which allows us to choose how our customers get and stay in touch with the business. Service Cloud makes we have all the tools necessary to respond efficiently to customer questions and requests across multiple channels, and assisting us with solving supports issues in the field.
 
-### Part 2
+### Salesforce Modules Part 2
 
 Module 12 
 [Entitlement Management for Lightning Experience](https://trailhead.salesforce.com/content/learn/modules/entitlement-management-for-lightning-experience?trail_id=service_cloud_move) (~1hr 30m)

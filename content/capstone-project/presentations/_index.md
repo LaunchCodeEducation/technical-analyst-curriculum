@@ -15,4 +15,6 @@ You will get about 15 minutes to present your findings, diagrams, and thought pr
    1. What data can these tools produce?
    1. How will your mockup dashboard clearly illustrate what is going on to the CTO?
 
+{{% notice blue Note "rocket" %}}
 If you would like to make slides, you are more than welcome to do so!
+{{% /notice %}}

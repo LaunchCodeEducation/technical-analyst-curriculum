@@ -14,7 +14,7 @@ The CTO has given you some requirements to start with. Before reviewing those, l
 1. All concerns about investment portfolios for the high-profile clients with over $1,000,000 to invest should be directed back to their dedicated account manager, unless their concern is about their dedicated account manager. In this case, their concern should be directed to the department director. This is regardless of how they reach out to the firm.
 1. There is a team for the clients who have less than $1,000,000 to invest. This team answers questions about both the AI Portfolios and the trading platform. This team also has dedicated teams of phone, email, and chat reps but with each team, the reps are divided into two groups: experts on the AI portfolios and experts on the trading platform.
 
-While there have some issues with efficiency, there is no plan to restructure the customer service department. The CTO is hoping that you can use tools like Salesforce Service Cloud and scripts to help address the current inefficiencies and keep the firm's customers loyal.
+While there have been some issues with efficiency, there is no plan to restructure the customer service department. The CTO is hoping that you can use tools like Salesforce Service Cloud and scripts to help address the current inefficiencies and keep the firm's customers loyal.
 
 Here are the current issues with their setup:
 

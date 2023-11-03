@@ -11,7 +11,7 @@ weight: 116
 
 ## The Firm
 
-You work for an investment firm and have an exciting meeting coming up to pitch a new customer service and system architecture to the CTO. The firm's mission is to make investing a profitable and accessible endeavour to everyone, no matter how much you have in your bank account. They live up to this mission by having both web and mobile platforms to ensure you can check your balance anytime and they have five different core services:
+You work for an investment firm and have an exciting meeting coming up to pitch a new customer service and system architecture to the Chief Technology Officer (CTO). The firm's mission is to make investing a profitable and accessible endeavour to everyone, no matter how much you have in your bank account. They live up to this mission by having both web and mobile platforms to ensure you can check your balance anytime and they have five different core services:
 
 1. For the firm's high-profile clients (clients with over $1,000,000 in assets to invest), their portfolios are individually managed by one account manager. This account manager handles all their questions and concerns and spends each day trying to grow that client's portfolio.
 1. For risk-adverse people who want to invest, have less than $1,000,000, but are nervous about it, the firm offers AI portfolios. The users do not need any investing knowledge for this particular service, because the computer handles everything for them.

@@ -15,7 +15,7 @@ You work for an investment firm and have an exciting meeting coming up to pitch 
 
 1. For the firm's high-profile clients (clients with over $1,000,000 in assets to invest), their portfolios are individually managed by one account manager. This account manager handles all their questions and concerns and spends each day trying to grow that client's portfolio.
 1. For risk-adverse people who want to invest, have less than $1,000,000, but are nervous about it, the firm offers AI portfolios. The users do not need any investing knowledge for this particular service, because the computer handles everything for them.
-1. For clients who have less than $1,000,000 to invest and are not risk adverse, the firm has an trading platform for clients to conduct their own trades.
+1. For clients who have less than $1,000,000 to invest and are not risk adverse, the firm has a trading platform for clients to conduct their own trades.
 1. For all clients, they have an ecommerce platform where clients can get highly-discounted products to manage their budgets such as cash envelopes, tax software, and budget planning notebooks.
 1. Finally, all clients have access to financial advisors 24/7 who can talk about not only investments, but also retirement, personal budgets, and financial goal setting.
 

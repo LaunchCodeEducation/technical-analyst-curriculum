@@ -1,6 +1,7 @@
 ---
 title: "Exercise Instructions"
 weight: 102
+draft: true
 ---
 
 ## Activity : Create a User Guide 

@@ -1,6 +1,7 @@
 ---
 title: "Exercise Instructions"
 weight: 102
+draft: true
 ---
 
 ## Activity : Favorable Outcomes 

@@ -1,6 +1,7 @@
 ---
 title: "Activity Instructions"
 weight: 5
+draft: true
 ---
 
 ## Instructors Chaos List & Chaos Selection

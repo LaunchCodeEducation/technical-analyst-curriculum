@@ -34,9 +34,12 @@ The next 2 days you will be working with Salesforce Service Cloud Trailhead. Sal
 
 Once you have your account created, login to Salesforce.com. This will alllow you to earn points while you are learning about Service Cloud. 
 
-### Part 1
+### Salesforce Modules Part 1
+
 Module 1
 [Begin Your Customer Service Journey](https://trailhead.salesforce.com/content/learn/modules/service_lex/service_lex_cloud?trail_id=service_cloud_move) (~15m)
+
+- Submodule[Create a Trailhead Playground](https://trailhead.salesforce.com/content/learn/modules/trailhead_playground_management/create-a-trailhead-playground)
 
 Module 2
 [Administer Service Cloud](https://trailhead.salesforce.com/content/learn/modules/service_lex/service_lex_connect?trail_id=service_cloud_move) (~20m)
@@ -53,19 +56,16 @@ Module 5
 Module 6 
 [Service Setup Assistant Quick Look](https://trailhead.salesforce.com/content/learn/modules/service-setup-assistant-quick-look?trail_id=service_cloud_move) (~10m)
 
-Module 6
+Module 7
 [Customer Service Incident Management Quick Look](https://trailhead.salesforce.com/content/learn/modules/customer-service-incident-management-quick-look?trail_id=service_cloud_move) (~10m)
 
-Module 8 
-[Service Cloud for Lightning Experience](https://trailhead.salesforce.com/content/learn/modules/service_lex?trail_id=service_cloud_move) (~1hr 35m)
-
-Module 9 
+Module 8
 [Service Cloud Agent Experience](https://trailhead.salesforce.com/content/learn/modules/service-cloud-agent-experience?trail_id=service_cloud_move) (~30m)
 
-Module 10 
+Module 9 
 [Service Cloud Agent Productivity](https://trailhead.salesforce.com/content/learn/modules/service-cloud-agent-productivity?trail_id=service_cloud_move) (~1hr 40m)
 
-Module 11 
+Module 10 
 [Salesforce Flow for Service](https://trailhead.salesforce.com/content/learn/modules/service_lightning_flow_for_service?trail_id=service_cloud_move) (~45m)
 
 

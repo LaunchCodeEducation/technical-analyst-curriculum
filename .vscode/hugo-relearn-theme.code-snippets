@@ -1,0 +1,77 @@
+{
+    "LC Learn Picture": {
+        "scope": "markdown,md",
+        "prefix": "//picture",
+        "body": ["![${1:alt-text}](pictures/${2:path}.png?classes=border)$0"]
+    },
+    "LC Learn Resize Picture": {
+        "scope": "markdown,md",
+        "prefix": "//resize-picture",
+        "body": ["![${1:alt-text}](pictures/${2:path}.png?classes=border&height=650px)$0"]
+    },
+    "LC Learn Notice": {
+        "scope": "markdown,md",
+        "prefix": "//notice",
+        "body": ["{{% notice blue ${1:Note} %}}", "$2", "{{% /notice %}}$0"]
+    },
+    "LC Learn Warning": {
+        "scope": "markdown,md",
+        "prefix": "//warning",
+        "body": ["{{% notice orange ${1:Warning} %}}", "$2", "{{% /notice %}}$0"]
+    },
+    "LC Learn Question": {
+        "scope": "markdown,md",
+        "prefix": "//question",
+        "body": ["{{% notice green ${1:Question} %}}", "$2", "{{% /notice %}}$0"]
+    },
+    "LC Learn Tip": {
+        "scope": "markdown,md",
+        "prefix": "//tip",
+        "body": ["{{% notice green ${1:Tip} %}}", "$2", "{{% /notice %}}$0"]
+    },
+    "LC Learn Example": {
+        "scope": "markdown,md",
+        "prefix": "//example",
+        "body": ["{{% notice blue ${1:Example} %}}", "$2", "{{% /notice %}}$0"]
+    },
+    "LC Learn Normal Expand": {
+        "scope": "markdown,md",
+        "prefix": "//expand",
+        "body": ["{{% expand \"${1:title}\" %}}", "$2", "{{% /expand %}}"]
+    },
+    "LC Learn Answer Expand": {
+        "scope": "markdown,md",
+        "prefix": "//answer",
+        "body": ["{{% expand \"${1:CLICK FOR ANSWER}\" %}}", "$2", "{{% /expand %}}"]
+    },
+    "LC Learn TODO": {
+        "scope": "markdown,md",
+        "prefix": "//todo",
+        "body": ["<!-- TODO: ${1:example TODO item here} -->$0"]
+    },
+    "LC Learn Answer": {
+        "scope": "markdown,md",
+        "prefix": "//solution",
+        "body": ["<!-- Solution: ${1:example solution here} -->$0"]
+    },
+    "LC Learn Clarity": {
+        "scope": "markdown,md",
+        "prefix": "//clarity",
+        "body": ["<!-- CLARITY: ${1:example clarification review request} -->$0"]
+    },
+    "LC Learn Accuaracy": {
+        "scope": "markdown,md",
+        "prefix": "//accuracy",
+        "body": ["<!-- ACCURACY: ${1:example accuracy review request} -->$0"]
+    },
+    "LC Learn Code": {
+        "scope": "markdown,md",
+        "prefix": "//code",
+        "body": ["```$1 {linenos=table}", "$2", "```"]
+    },
+    "LC Learn Relref": {
+        "scope": "markdown,md",
+        "prefix": "//relref",
+        "body": ["[${1:relref}]({{< $2 >}})"]
+    }
+}

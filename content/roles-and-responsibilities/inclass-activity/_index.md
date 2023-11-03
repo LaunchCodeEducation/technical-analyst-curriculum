@@ -1,6 +1,7 @@
 ---
 title: "Activity"
 weight: 114
+draft: true
 ---
 
 ## Activity : Chaos Monkey Challenge (60m)

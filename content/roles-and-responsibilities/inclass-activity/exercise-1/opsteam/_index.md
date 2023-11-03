@@ -1,6 +1,7 @@
 ---
 title: "Operations Team"
-weight: 5
+weight: 7
+draft: true
 ---
 
 ## Operations Team (required)

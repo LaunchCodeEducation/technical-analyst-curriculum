@@ -1,6 +1,7 @@
 ---
 title: "Exercise Instructions"
 weight: 109
+draft: true
 ---
 
 ## In Class Activity: Create a how to guide 

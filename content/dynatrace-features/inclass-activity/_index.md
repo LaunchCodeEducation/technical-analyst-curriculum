@@ -1,6 +1,7 @@
 ---
 title: "Exercise Instructions"
 weight: 112
+draft: true
 ---
 
 ## Activity : Business Analytic 

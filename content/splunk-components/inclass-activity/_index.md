@@ -1,6 +1,7 @@
 ---
 title: "Exercise Instructions"
 weight: 111
+draft: true
 ---
 
 ## Instructor Activity Splunk Enterprise Documentation

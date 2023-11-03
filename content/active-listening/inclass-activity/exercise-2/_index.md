@@ -1,7 +1,9 @@
 ---
 title: "Exercise 2"
 weight: 5
+draft: true
 ---
+
 
 ## In Class Activity 2
 

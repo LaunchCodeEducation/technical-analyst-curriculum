@@ -1,6 +1,7 @@
 ---
 title: "Exercises"
 weight: 5
+draft: true
 ---
 
 ### In Class Activity 2 : Create a presentation report 

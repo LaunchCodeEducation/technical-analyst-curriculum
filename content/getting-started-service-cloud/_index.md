@@ -25,7 +25,7 @@ The Salesforce Product Overview
 
 The next 2 days you will be working with Salesforce Service Cloud Trailhead. Salesforce Service Cloud is a cloud-based service that provides customers and businesses with the tools they need to manage their customer inquiries. 
 
-### Step up your account 
+### Setup up your account 
 1. Navigate to [Salesforce.com](https://salesforce.com)
 2. Click on the login icon
 3. Navigate down the list to the Trailblazer Account link and click the link 

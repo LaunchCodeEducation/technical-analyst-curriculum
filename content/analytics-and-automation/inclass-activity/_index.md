@@ -3,6 +3,17 @@ title: "Exercise Instructions"
 weight: 112
 ---
 
-## In Class Activity : Dynatrace UI Tour 
-In this activity, you will learn how to navigate the Dynatrace UI with the provided Dynatrace tutorials. 
-Learners should also take time to familiarize themselves with the tools capabilities to ensure they are able to navigate the documentation for questions and answers. Simaliar to the previous activity on Day 11,  activity is designed for awareness to the Dynatrace interface. The modules in this training will become outdated but Dynatrace will maintain the latest documents, updates and software upgrades and learners are encouraged to review the documentation, communities, user groups outlined. 
+In this activity, you will begin to familiarize yourself with the vast Dynatrace platform by finding the answers to certain questions within the documentation.
+
+## Scavenger Hunt
+
+Dynatrace has lots of different services and possible configurations to meet a company's needs. Time to test your research skills to find the answers to how the platform can best serve you in a customer service context. Make note of the following answers so you are ready to discuss them as a class!
+
+1. Davis is the name of the AI used to analyze a corporation's enterprise system. It can evaluate commonly occurring issues. In the diagram illustrating green, red, and yellow issues, what does yellow mean?
+1. OneAgent and ActiveGate are in the same section of the documentation. What is the difference?
+1. Name three of OneAgent's monitoring capabilities.
+1. What are the four steps in the Grail-based data management process?
+1. Can you set emails to go out to specific teams in the case of a crash? What service is that process under?
+1. What are the six steps in the Log Processing Pipeline?
+1. What is SmartScape?
+1. In the visualization put together by Smartscape auto-discovery, what is on the horizontal axis and what is on the vertical axis?

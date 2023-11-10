@@ -1,6 +1,6 @@
 ---
 title: Capstone Project 
-weight: 116
+weight: 115
 ---
 
 ## Capstone Goals

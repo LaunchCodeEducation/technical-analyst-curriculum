@@ -1,6 +1,6 @@
 ---
-title: "Chapter 15: Career & Professional Development" 
-weight: 115
+title: "Chapter 14: Career & Professional Development" 
+weight: 114
 ---
 
 ## Plan for Professional Development

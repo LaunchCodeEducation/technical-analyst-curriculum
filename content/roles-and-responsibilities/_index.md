@@ -1,6 +1,6 @@
 ---
-title: "Chapter 14: Roles and Responsibilities" 
-weight: 114
+title: "Chapter 13: Roles and Responsibilities" 
+weight: 113
 ---
 
 ## Organization Structure

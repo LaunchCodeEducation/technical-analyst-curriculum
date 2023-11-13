@@ -3,7 +3,7 @@ title: "Splunk Install Walk-Through & Basic Search"
 weight: 110
 ---
 
-Time to install Splunk! Then, using the tutorial data provided by Splunk show the class the core search features. 
+Time to install Splunk! Then, using the Buttercup Games tutorial data provided by Splunk, you should explore some of the core search features. 
 
 ## Steps 
 

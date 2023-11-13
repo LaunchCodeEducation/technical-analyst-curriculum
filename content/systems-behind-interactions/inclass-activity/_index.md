@@ -1,15 +1,13 @@
 ---
-title: "Exercise Instructions"
+title: "Splunk Install Walk-Through & Basic Search"
 weight: 110
 ---
 
-## Instructor Activity : Splunk Install Walk-Through & Basic Search
-The class instructor witll walk through the installation of Splunk. Then, Using the tutorial data provided by Splunk show the class the core search features. 
+Time to install Splunk! Then, using the tutorial data provided by Splunk show the class the core search features. 
 
-// To Do: Create Instructor Video Walk-Through 
+## Steps 
 
-Steps 
-[visit the Splunk site](https://www.splunk.com/en_us/download.html) and download Splunk Enterprise free trial. 
+[Visit the Splunk site](https://www.splunk.com/en_us/download.html) and download Splunk Enterprise free trial. 
 
 1. Splunk 9.x.x Install 
 2. Splunk Interface Walk-through 

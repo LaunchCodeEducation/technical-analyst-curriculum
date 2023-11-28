@@ -1,6 +1,7 @@
 ---
 title: "Exercise Instructions"
 weight: 115
+draft: true
 ---
 
 ## Introduction to the capstone project
